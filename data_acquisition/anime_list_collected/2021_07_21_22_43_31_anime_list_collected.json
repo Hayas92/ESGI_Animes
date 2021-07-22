@@ -1,0 +1,2172 @@
+[
+    {
+        "id_product": 1,
+        "anime_name": ".hack//SIGN",
+        "anime_url": "https://gum-gum-streaming.com/hack-sign-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 2,
+        "anime_name": ".hack//Legend of Twilight",
+        "anime_url": "https://gum-gum-streaming.com/hack-legend-of-twilight-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 3,
+        "anime_name": ".hack//Roots",
+        "anime_url": "https://gum-gum-streaming.com/hack-roots-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 4,
+        "anime_name": "3X3 Eyes",
+        "anime_url": "https://gum-gum-streaming.com/3x3-eyes-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 5,
+        "anime_name": "7 Seeds",
+        "anime_url": "https://gum-gum-streaming.com/7-seeds-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 6,
+        "anime_name": "Accel World",
+        "anime_url": "https://gum-gum-streaming.com/accel-world-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 7,
+        "anime_name": "A.D. Police",
+        "anime_url": "https://gum-gum-streaming.com/a-d-police-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 8,
+        "anime_name": "Afro Samurai",
+        "anime_url": "https://gum-gum-streaming.com/afro-samurai-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 9,
+        "anime_name": "Aggressive Retsuko",
+        "anime_url": "https://gum-gum-streaming.com/aggressive-retsuko-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 10,
+        "anime_name": "Ah! My Goddess",
+        "anime_url": "https://gum-gum-streaming.com/ah-my-goddess-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 11,
+        "anime_name": "A.I.C.O.: Incarnation",
+        "anime_url": "https://gum-gum-streaming.com/a-i-c-o-incarnation-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 12,
+        "anime_name": "Ailes Grises",
+        "anime_url": "https://gum-gum-streaming.com/ailes-grises-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 13,
+        "anime_name": "Air Gear",
+        "anime_url": "https://gum-gum-streaming.com/air-gear-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 14,
+        "anime_name": "Aishiteruze Baby",
+        "anime_url": "https://gum-gum-streaming.com/aishiteruze-baby-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 15,
+        "anime_name": "Ajin",
+        "anime_url": "https://gum-gum-streaming.com/ajin-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 16,
+        "anime_name": "Albator 84",
+        "anime_url": "https://gum-gum-streaming.com/albator-84-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 17,
+        "anime_name": "Anatane et les enfants d’Okura",
+        "anime_url": "https://gum-gum-streaming.com/anatane-et-les-enfants-dokura-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 18,
+        "anime_name": "Angel Beats!",
+        "anime_url": "https://gum-gum-streaming.com/angel-beats-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 19,
+        "anime_name": "Angel Cop",
+        "anime_url": "https://gum-gum-streaming.com/angel-cop-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 20,
+        "anime_name": "Angel Heart",
+        "anime_url": "https://gum-gum-streaming.com/angel-heart-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 21,
+        "anime_name": "Another",
+        "anime_url": "https://gum-gum-streaming.com/another-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 22,
+        "anime_name": "Ao Haru Ride",
+        "anime_url": "https://gum-gum-streaming.com/ao-haru-ride-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 23,
+        "anime_name": "Aoi Bungaku Series",
+        "anime_url": "https://gum-gum-streaming.com/aoi-bungaku-series-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 24,
+        "anime_name": "Assassination Classroom",
+        "anime_url": "https://gum-gum-streaming.com/assassination-classroom-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 25,
+        "anime_name": "Arslan Senki",
+        "anime_url": "https://gum-gum-streaming.com/arslan-senki-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 26,
+        "anime_name": "Avatar",
+        "anime_url": "https://gum-gum-streaming.com/avatar-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 27,
+        "anime_name": "Ayakashi: Japanese Classic Horror",
+        "anime_url": "https://gum-gum-streaming.com/ayakashi-japanese-classic-horror-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 28,
+        "anime_name": "B Gata H Kei",
+        "anime_url": "https://gum-gum-streaming.com/b-gata-h-kei-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 29,
+        "anime_name": "B: The Beginning",
+        "anime_url": "https://gum-gum-streaming.com/b-the-beginning-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 30,
+        "anime_name": "Baccano!",
+        "anime_url": "https://gum-gum-streaming.com/baccano-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 31,
+        "anime_name": "Back Street Girls : Gokudolls",
+        "anime_url": "https://gum-gum-streaming.com/back-street-girls-gokudolls-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 32,
+        "anime_name": "Bakemonogatari",
+        "anime_url": "https://gum-gum-streaming.com/bakemonogatari-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 33,
+        "anime_name": "Baki The grappler",
+        "anime_url": "https://gum-gum-streaming.com/baki-the-grappler-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 34,
+        "anime_name": "Baki (2018)",
+        "anime_url": "https://gum-gum-streaming.com/baki-2018-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 35,
+        "anime_name": "Basilisk: Kouga Ninpou Chou",
+        "anime_url": "https://gum-gum-streaming.com/basilisk-kouga-ninpou-chou-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 36,
+        "anime_name": "Beastars",
+        "anime_url": "https://gum-gum-streaming.com/beastars-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 37,
+        "anime_name": "Beck",
+        "anime_url": "https://gum-gum-streaming.com/beck-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 38,
+        "anime_name": "Berserk",
+        "anime_url": "https://gum-gum-streaming.com/berserk-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 39,
+        "anime_name": "Beyblade Burst",
+        "anime_url": "https://gum-gum-streaming.com/beyblade-burst-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 40,
+        "anime_name": "Big Mouth",
+        "anime_url": "https://gum-gum-streaming.com/big-mouth-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 41,
+        "anime_name": "Black Bullet",
+        "anime_url": "https://gum-gum-streaming.com/black-bullet-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 42,
+        "anime_name": "Black Cat",
+        "anime_url": "https://gum-gum-streaming.com/black-cat-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 43,
+        "anime_name": "Black Clover",
+        "anime_url": "https://gum-gum-streaming.com/black-clover-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 44,
+        "anime_name": "Black Jack 21",
+        "anime_url": "https://gum-gum-streaming.com/black-jack-21-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 45,
+        "anime_name": "Black Lagoon",
+        "anime_url": "https://gum-gum-streaming.com/black-lagoon-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 46,
+        "anime_name": "Black ★ Rock Shooter",
+        "anime_url": "https://gum-gum-streaming.com/black-%E2%98%85-rock-shooter-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 47,
+        "anime_name": "Blood+",
+        "anime_url": "https://gum-gum-streaming.com/blood-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 48,
+        "anime_name": "Blood Lad",
+        "anime_url": "https://gum-gum-streaming.com/blood-lad-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 49,
+        "anime_name": "Blue Exorcist",
+        "anime_url": "https://gum-gum-streaming.com/blue-exorcist-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 50,
+        "anime_name": "Blue Gender",
+        "anime_url": "https://gum-gum-streaming.com/blue-gender-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 51,
+        "anime_name": "Bokura ga ita",
+        "anime_url": "https://gum-gum-streaming.com/bokura-ga-ita-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 52,
+        "anime_name": "Boruto: Naruto Next Generations",
+        "anime_url": "https://gum-gum-streaming.com/boruto-naruto-next-generations-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 53,
+        "anime_name": "BTOOOM!",
+        "anime_url": "https://gum-gum-streaming.com/btooom-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 54,
+        "anime_name": "Burst Angel",
+        "anime_url": "https://gum-gum-streaming.com/burst-angel-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 55,
+        "anime_name": "Canaan",
+        "anime_url": "https://gum-gum-streaming.com/canaan-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 56,
+        "anime_name": "Cannon Busters",
+        "anime_url": "https://gum-gum-streaming.com/cannon-busters-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 57,
+        "anime_name": "Captain Tsubasa (Olive et Tom)",
+        "anime_url": "https://gum-gum-streaming.com/captain-tsubasa-olive-et-tom-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 58,
+        "anime_name": "Captain Tsubasa Road to 2002",
+        "anime_url": "https://gum-gum-streaming.com/captain-tsubasa-road-to-2002-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 59,
+        "anime_name": "Captain Tsubasa (2018)",
+        "anime_url": "https://gum-gum-streaming.com/captain-tsubasa-2018-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 60,
+        "anime_name": "Card Captor Sakura",
+        "anime_url": "https://gum-gum-streaming.com/card-captor-sakura-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 61,
+        "anime_name": "Carole & Tuesday",
+        "anime_url": "https://gum-gum-streaming.com/carole-tuesday-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 62,
+        "anime_name": "Casshern Sins",
+        "anime_url": "https://gum-gum-streaming.com/casshern-sins-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 63,
+        "anime_name": "Castlevania",
+        "anime_url": "https://gum-gum-streaming.com/castlevania-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 64,
+        "anime_name": "Chobits",
+        "anime_url": "https://gum-gum-streaming.com/chobits-v/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 65,
+        "anime_name": "Chocola et Vanilla",
+        "anime_url": "https://gum-gum-streaming.com/chocola-et-vanilla-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 66,
+        "anime_name": "Chrno Crusade",
+        "anime_url": "https://gum-gum-streaming.com/chrno-crusade-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 67,
+        "anime_name": "Cike Wu Liu Qi",
+        "anime_url": "https://gum-gum-streaming.com/cike-wu-liu-qi-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 68,
+        "anime_name": "Claymore",
+        "anime_url": "https://gum-gum-streaming.com/claymore-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 69,
+        "anime_name": "Cobra",
+        "anime_url": "https://gum-gum-streaming.com/cobra-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 70,
+        "anime_name": "Code Geass",
+        "anime_url": "https://gum-gum-streaming.com/code-geass-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 71,
+        "anime_name": "Code Lyoko",
+        "anime_url": "https://gum-gum-streaming.com/code-lyoko-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 72,
+        "anime_name": "Corpse Party",
+        "anime_url": "https://gum-gum-streaming.com/corpse-party-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 73,
+        "anime_name": "Cowboy Bebop",
+        "anime_url": "https://gum-gum-streaming.com/cowboy-bebop-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 74,
+        "anime_name": "Crisus Jung",
+        "anime_url": "https://gum-gum-streaming.com/crisus-jung-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 75,
+        "anime_name": "D.Gray-man",
+        "anime_url": "https://gum-gum-streaming.com/d-gray-man-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 76,
+        "anime_name": "Dance in the Vampire Bund",
+        "anime_url": "https://gum-gum-streaming.com/dance-in-the-vampire-bund-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 77,
+        "anime_name": "DanMachi",
+        "anime_url": "https://gum-gum-streaming.com/danmachi-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 78,
+        "anime_name": "Danmachi Sword Oratoria",
+        "anime_url": "https://gum-gum-streaming.com/danmachi-sword-oratoria-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 79,
+        "anime_name": "Darker than Black",
+        "anime_url": "https://gum-gum-streaming.com/darker-than-black-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 80,
+        "anime_name": "Deadman Wonderland",
+        "anime_url": "https://gum-gum-streaming.com/deadman-wonderland-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 81,
+        "anime_name": "DearS",
+        "anime_url": "https://gum-gum-streaming.com/dears-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 82,
+        "anime_name": "Death Note",
+        "anime_url": "https://gum-gum-streaming.com/death-note-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 83,
+        "anime_name": "Désenchantée",
+        "anime_url": "https://gum-gum-streaming.com/desenchantee-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 84,
+        "anime_name": "Détective Conan",
+        "anime_url": "https://gum-gum-streaming.com/detective-conan-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 85,
+        "anime_name": "Devil May Cry",
+        "anime_url": "https://gum-gum-streaming.com/devil-may-cry-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 86,
+        "anime_name": "Devilman Crybaby",
+        "anime_url": "https://gum-gum-streaming.com/devilman-crybaby-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 87,
+        "anime_name": "D.N.Angel",
+        "anime_url": "https://gum-gum-streaming.com/d-n-angel-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 88,
+        "anime_name": "Dorohedoro",
+        "anime_url": "https://gum-gum-streaming.com/dorohedoro-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 89,
+        "anime_name": "Dragon Ball",
+        "anime_url": "https://gum-gum-streaming.com/dragon-ball-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 90,
+        "anime_name": "Dragon Ball GT",
+        "anime_url": "https://gum-gum-streaming.com/dragon-ball-gt-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 91,
+        "anime_name": "Dragon Ball Super",
+        "anime_url": "https://gum-gum-streaming.com/dragon-ball-super-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 92,
+        "anime_name": "Dragon Ball Z",
+        "anime_url": "https://gum-gum-streaming.com/dragon-ball-z-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 93,
+        "anime_name": "Dragon Ball Z Kai",
+        "anime_url": "https://gum-gum-streaming.com/dragon-ball-z-kai-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 94,
+        "anime_name": "Dragon’s Dogma",
+        "anime_url": "https://gum-gum-streaming.com/dragons-dogma-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 95,
+        "anime_name": "Dragon Quest: Abel Yuusha",
+        "anime_url": "https://gum-gum-streaming.com/dragon-quest-abel-yuusha-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 96,
+        "anime_name": "Dragon Quest: Dai no Daibouken",
+        "anime_url": "https://gum-gum-streaming.com/dragon-quest-dai-no-daibouken-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 97,
+        "anime_name": "Eden",
+        "anime_url": "https://gum-gum-streaming.com/eden-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 98,
+        "anime_name": "Elfen Lied",
+        "anime_url": "https://gum-gum-streaming.com/elfen-lied-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 99,
+        "anime_name": "Enfer et Paradis",
+        "anime_url": "https://gum-gum-streaming.com/enfer-et-paradis-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 100,
+        "anime_name": "Entre Elle et Lui",
+        "anime_url": "https://gum-gum-streaming.com/entre-elle-et-lui-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 101,
+        "anime_name": "Erementar Gerad",
+        "anime_url": "https://gum-gum-streaming.com/erementar-gerad-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 102,
+        "anime_name": "Ergo Proxy",
+        "anime_url": "https://gum-gum-streaming.com/ergo-proxy-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 103,
+        "anime_name": "Eureka Seven",
+        "anime_url": "https://gum-gum-streaming.com/eureka-seven-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 104,
+        "anime_name": "Evangelion",
+        "anime_url": "https://gum-gum-streaming.com/evangelion-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 105,
+        "anime_name": "Excel Saga",
+        "anime_url": "https://gum-gum-streaming.com/excel-saga-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 106,
+        "anime_name": "Eyeshield 21",
+        "anime_url": "https://gum-gum-streaming.com/eyeshield-21-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 107,
+        "anime_name": "Fairy Tail",
+        "anime_url": "https://gum-gum-streaming.com/fairy-tail-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 108,
+        "anime_name": "Fantastic Children",
+        "anime_url": "https://gum-gum-streaming.com/fantastic-children-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 109,
+        "anime_name": "Fate Stay Night",
+        "anime_url": "https://gum-gum-streaming.com/fate-stay-night-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 110,
+        "anime_name": "Fate/Apocrypha",
+        "anime_url": "https://gum-gum-streaming.com/fate-apocrypha-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 111,
+        "anime_name": "Fate/Stay Night: Unlimited Blade Works",
+        "anime_url": "https://gum-gum-streaming.com/fate-stay-night-unlimited-blade-works-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 112,
+        "anime_name": "Fate/Extra Last Encore",
+        "anime_url": "https://gum-gum-streaming.com/fate-extra-last-encore-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 113,
+        "anime_name": "Final Fantasy Unlimited",
+        "anime_url": "https://gum-gum-streaming.com/final-fantasy-unlimited-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 114,
+        "anime_name": "Final Fantasy: Legend of the Crystals",
+        "anime_url": "https://gum-gum-streaming.com/final-fantasy-legend-of-the-crystals-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 115,
+        "anime_name": "FLCL",
+        "anime_url": "https://gum-gum-streaming.com/flcl-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 116,
+        "anime_name": "Fractale",
+        "anime_url": "https://gum-gum-streaming.com/fractale-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 117,
+        "anime_name": "Freedom",
+        "anime_url": "https://gum-gum-streaming.com/freedom-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 118,
+        "anime_name": "Fruits Basket",
+        "anime_url": "https://gum-gum-streaming.com/fruits-basket-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 119,
+        "anime_name": "Full Metal Panic!",
+        "anime_url": "https://gum-gum-streaming.com/full-metal-panic-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 120,
+        "anime_name": "Fullmetal Alchemist",
+        "anime_url": "https://gum-gum-streaming.com/fullmetal-alchemist-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 121,
+        "anime_name": "Fullmetal Alchemist: Brotherhood",
+        "anime_url": "https://gum-gum-streaming.com/fullmetal-alchemist-brotherhood-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 122,
+        "anime_name": "Gakuen Alice",
+        "anime_url": "https://gum-gum-streaming.com/gakuen-alice-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 123,
+        "anime_name": "Galactik Football",
+        "anime_url": "https://gum-gum-streaming.com/galactik-football-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 124,
+        "anime_name": "Gangsta",
+        "anime_url": "https://gum-gum-streaming.com/gangsta-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 125,
+        "anime_name": "Gantz",
+        "anime_url": "https://gum-gum-streaming.com/gantz-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 126,
+        "anime_name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+        "anime_url": "https://gum-gum-streaming.com/gate-jieitai-kanochi-nite-kaku-tatakaeri-au-dela-de-la-porte-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 127,
+        "anime_name": "Gate Keepers",
+        "anime_url": "https://gum-gum-streaming.com/gate-keepers-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 128,
+        "anime_name": "Ghost in The Shell",
+        "anime_url": "https://gum-gum-streaming.com/ghost-in-the-shell-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 129,
+        "anime_name": "Goblin Slayer",
+        "anime_url": "https://gum-gum-streaming.com/goblin-slayer-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 130,
+        "anime_name": "Godzilla: Singular Point",
+        "anime_url": "https://gum-gum-streaming.com/godzilla-singular-point-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 131,
+        "anime_name": "Gokusen",
+        "anime_url": "https://gum-gum-streaming.com/gokusen-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 132,
+        "anime_name": "Gokushufudo",
+        "anime_url": "https://gum-gum-streaming.com/gokushufudo-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 133,
+        "anime_name": "Golden Boy",
+        "anime_url": "https://gum-gum-streaming.com/golden-boy-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 134,
+        "anime_name": "Goldorak",
+        "anime_url": "https://gum-gum-streaming.com/goldorak-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 135,
+        "anime_name": "Gravity Falls",
+        "anime_url": "https://gum-gum-streaming.com/gravity-falls-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 136,
+        "anime_name": "Great Pretender",
+        "anime_url": "https://gum-gum-streaming.com/great-pretender-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 137,
+        "anime_name": "Grimoire of Zero",
+        "anime_url": "https://gum-gum-streaming.com/grimoire-of-zero-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 138,
+        "anime_name": "Gungrave",
+        "anime_url": "https://gum-gum-streaming.com/gungrave-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 139,
+        "anime_name": "Gunjou no Magmel",
+        "anime_url": "https://gum-gum-streaming.com/gunjou-no-magmel-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 140,
+        "anime_name": "GUNNM",
+        "anime_url": "https://gum-gum-streaming.com/gunnm-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 141,
+        "anime_name": "Gunslinger Girl",
+        "anime_url": "https://gum-gum-streaming.com/gunslinger-girl-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 142,
+        "anime_name": "Gunsmith Cats",
+        "anime_url": "https://gum-gum-streaming.com/gunsmith-cats-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 143,
+        "anime_name": "Haikyuu!!",
+        "anime_url": "https://gum-gum-streaming.com/haikyuu-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 144,
+        "anime_name": "Hanaukyo Maid-tai: La Vérité",
+        "anime_url": "https://gum-gum-streaming.com/hanaukyo-maid-tai-la-verite-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 145,
+        "anime_name": "He Is My Master",
+        "anime_url": "https://gum-gum-streaming.com/he-is-my-master-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 146,
+        "anime_name": "Hellsing",
+        "anime_url": "https://gum-gum-streaming.com/hellsing-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 147,
+        "anime_name": "Hellsing Ultimate",
+        "anime_url": "https://gum-gum-streaming.com/hellsing-ultimate-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 148,
+        "anime_name": "Hero Mask",
+        "anime_url": "https://gum-gum-streaming.com/hero-mask-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 149,
+        "anime_name": "Higashi no Eden",
+        "anime_url": "https://gum-gum-streaming.com/higashi-no-eden-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 150,
+        "anime_name": "High Score Girl",
+        "anime_url": "https://gum-gum-streaming.com/high-score-girl-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 151,
+        "anime_name": "Highschool of the Dead",
+        "anime_url": "https://gum-gum-streaming.com/highschool-of-the-dead-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 152,
+        "anime_name": "Higurashi no Naku Koro ni",
+        "anime_url": "https://gum-gum-streaming.com/higurashi-no-naku-koro-ni-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 153,
+        "anime_name": "Hikaru no Go",
+        "anime_url": "https://gum-gum-streaming.com/hikaru-no-go-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 154,
+        "anime_name": "Hisone to Masotan",
+        "anime_url": "https://gum-gum-streaming.com/hisone-to-masotan-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 155,
+        "anime_name": "Hunter x Hunter (1999)",
+        "anime_url": "https://gum-gum-streaming.com/hunter-x-hunter-1999-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 156,
+        "anime_name": "Huntik",
+        "anime_url": "https://gum-gum-streaming.com/huntik-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 157,
+        "anime_name": "Hyakka Ryouran Samurai Girls",
+        "anime_url": "https://gum-gum-streaming.com/hyakka-ryouran-samurai-girls-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 158,
+        "anime_name": "Ichigo 100%",
+        "anime_url": "https://gum-gum-streaming.com/ichigo-100-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 159,
+        "anime_name": "ID-0",
+        "anime_url": "https://gum-gum-streaming.com/id-0-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 160,
+        "anime_name": "Ikkitousen",
+        "anime_url": "https://gum-gum-streaming.com/ikkitousen-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 161,
+        "anime_name": "Inazuma Eleven Go",
+        "anime_url": "https://gum-gum-streaming.com/inazuma-eleven-go-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 162,
+        "anime_name": "Inazuma Eleven: Ares no Tenbin",
+        "anime_url": "https://gum-gum-streaming.com/inazuma-eleven-ares-no-tenbin-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 163,
+        "anime_name": "Innocent Venus",
+        "anime_url": "https://gum-gum-streaming.com/innocent-venus-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 164,
+        "anime_name": "Japan Sinks 2020",
+        "anime_url": "https://gum-gum-streaming.com/japan-sinks-2020-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 165,
+        "anime_name": "Jigoku Shoujo",
+        "anime_url": "https://gum-gum-streaming.com/jigoku-shoujo-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 166,
+        "anime_name": "Jojo’s Bizarre Aventure",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-aventure-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 167,
+        "anime_name": "Jormungand",
+        "anime_url": "https://gum-gum-streaming.com/jormungand-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 168,
+        "anime_name": "Juushinki Pandora",
+        "anime_url": "https://gum-gum-streaming.com/juushinki-pandora-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 169,
+        "anime_name": "K-ON!",
+        "anime_url": "https://gum-gum-streaming.com/k-on-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 170,
+        "anime_name": "Kakegurui",
+        "anime_url": "https://gum-gum-streaming.com/kakegurui-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 171,
+        "anime_name": "Kami nomi zo shiru sekai",
+        "anime_url": "https://gum-gum-streaming.com/kami-nomi-zo-shiru-sekai-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 172,
+        "anime_name": "Karakai Jouzu no Takagi-san",
+        "anime_url": "https://gum-gum-streaming.com/karakai-jouzu-no-takagi-san-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 173,
+        "anime_name": "Katanagatari",
+        "anime_url": "https://gum-gum-streaming.com/katanagatari-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 174,
+        "anime_name": "Kengan Ashura",
+        "anime_url": "https://gum-gum-streaming.com/kengan-ashura-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 175,
+        "anime_name": "Kenshin Le Vagabond",
+        "anime_url": "https://gum-gum-streaming.com/kenshin-le-vagabond-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 176,
+        "anime_name": "Kiba",
+        "anime_url": "https://gum-gum-streaming.com/kiba-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 177,
+        "anime_name": "Kill la Kill",
+        "anime_url": "https://gum-gum-streaming.com/kill-la-kill-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 178,
+        "anime_name": "Kimi ga Nozomu Eien",
+        "anime_url": "https://gum-gum-streaming.com/kimi-ga-nozomu-eien-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 179,
+        "anime_name": "Kimi ni todoke",
+        "anime_url": "https://gum-gum-streaming.com/kimi-todoke-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 180,
+        "anime_name": "King of Bandit Jing: Ou Dorobou Jing",
+        "anime_url": "https://gum-gum-streaming.com/king-of-bandit-jing-ou-dorobou-jing-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 181,
+        "anime_name": "Kiznaiver",
+        "anime_url": "https://gum-gum-streaming.com/kiznaiver-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 182,
+        "anime_name": "Koukou Tekken-den Tough",
+        "anime_url": "https://gum-gum-streaming.com/koukou-tekken-den-tough-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 183,
+        "anime_name": "Koutetsujou no Kabaneri",
+        "anime_url": "https://gum-gum-streaming.com/koutetsujou-no-kabaneri-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 184,
+        "anime_name": "Kujira no Kora wa Sajou ni Utau",
+        "anime_url": "https://gum-gum-streaming.com/kujira-no-kora-wa-sajou-ni-utau-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 185,
+        "anime_name": "Kurenai",
+        "anime_url": "https://gum-gum-streaming.com/kurenai-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 186,
+        "anime_name": "Kuromukuro",
+        "anime_url": "https://gum-gum-streaming.com/kuromukuro-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 187,
+        "anime_name": "Kuutei Dragons",
+        "anime_url": "https://gum-gum-streaming.com/kuutei-dragons-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 188,
+        "anime_name": "Kyoushoku Soukou Guyver",
+        "anime_url": "https://gum-gum-streaming.com/kyoushoku-soukou-guyver-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 189,
+        "anime_name": "L’Autre Monde",
+        "anime_url": "https://gum-gum-streaming.com/lautre-monde-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 190,
+        "anime_name": "La Légende de Korra",
+        "anime_url": "https://gum-gum-streaming.com/la-legende-de-korra-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 191,
+        "anime_name": "La Légende de Raoh (Hokuto no Ken)",
+        "anime_url": "https://gum-gum-streaming.com/la-legende-de-raoh-hokuto-no-ken-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 192,
+        "anime_name": "La Sorcière de l’Ouest",
+        "anime_url": "https://gum-gum-streaming.com/la-sorciere-de-louest-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 193,
+        "anime_name": "Ladybug",
+        "anime_url": "https://gum-gum-streaming.com/ladybug-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 194,
+        "anime_name": "Lastman",
+        "anime_url": "https://gum-gum-streaming.com/lastman-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 195,
+        "anime_name": "Les 12 Royaumes (Juuni Kokuki)",
+        "anime_url": "https://gum-gum-streaming.com/les-12-royaumes-juuni-kokuki-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 196,
+        "anime_name": "Les Mystérieuses Cités d’or",
+        "anime_url": "https://gum-gum-streaming.com/les-mysterieuses-cites-dor-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 197,
+        "anime_name": "Levius",
+        "anime_url": "https://gum-gum-streaming.com/levius-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 198,
+        "anime_name": "Little Witch Academia",
+        "anime_url": "https://gum-gum-streaming.com/little-witch-academia-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 199,
+        "anime_name": "Lost Song",
+        "anime_url": "https://gum-gum-streaming.com/lost-song-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 200,
+        "anime_name": "Love Hina",
+        "anime_url": "https://gum-gum-streaming.com/love-hina-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 201,
+        "anime_name": "Magi : Sinbad no Bouken",
+        "anime_url": "https://gum-gum-streaming.com/magi-sinbad-no-bouken-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 202,
+        "anime_name": "Magi: The Labyrinth of Magic",
+        "anime_url": "https://gum-gum-streaming.com/magi-the-labyrinth-of-magic-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 203,
+        "anime_name": "Mahou Tsukai no Yome",
+        "anime_url": "https://gum-gum-streaming.com/mahou-tsukai-no-yome-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 204,
+        "anime_name": "Mai-HiME",
+        "anime_url": "https://gum-gum-streaming.com/mai-hime-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 205,
+        "anime_name": "Megalo Box",
+        "anime_url": "https://gum-gum-streaming.com/megalo-box-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 206,
+        "anime_name": "Midori Days",
+        "anime_url": "https://gum-gum-streaming.com/midori-days-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 207,
+        "anime_name": "Mirai Nikki",
+        "anime_url": "https://gum-gum-streaming.com/mirai-nikki-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 208,
+        "anime_name": "Mob Psycho 100",
+        "anime_url": "https://gum-gum-streaming.com/mob-psycho-100-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 209,
+        "anime_name": "Mobile Suit Gundam SEED",
+        "anime_url": "https://gum-gum-streaming.com/mobile-suit-gundam-seed-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 210,
+        "anime_name": "Mobile Suit Gundam SEED Destiny",
+        "anime_url": "https://gum-gum-streaming.com/mobile-suit-gundam-seed-destiny-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 211,
+        "anime_name": "Monsieur Flap",
+        "anime_url": "https://gum-gum-streaming.com/monsieur-flap-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 212,
+        "anime_name": "Murder Princess",
+        "anime_url": "https://gum-gum-streaming.com/murder-princess-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 213,
+        "anime_name": "Mushikago no Cagaster",
+        "anime_url": "https://gum-gum-streaming.com/mushikago-no-cagaster-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 214,
+        "anime_name": "Mushishi VF",
+        "anime_url": "https://gum-gum-streaming.com/mushishi-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 215,
+        "anime_name": "Nabari no Ou",
+        "anime_url": "https://gum-gum-streaming.com/nabari-no-ou-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 216,
+        "anime_name": "Nadia le secret de l’eau bleue",
+        "anime_url": "https://gum-gum-streaming.com/nadia-le-secret-de-leau-bleue-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 217,
+        "anime_name": "Nana",
+        "anime_url": "https://gum-gum-streaming.com/nana-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 218,
+        "anime_name": "Nanatsu no Taizai",
+        "anime_url": "https://gum-gum-streaming.com/nanatsu-no-taizai-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 219,
+        "anime_name": "Nanatsu no Taizai: Seisen no Shirushi",
+        "anime_url": "https://gum-gum-streaming.com/nanatsu-no-taizai-seisen-no-shirushi-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 220,
+        "anime_name": "Naruto",
+        "anime_url": "https://gum-gum-streaming.com/naruto-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 221,
+        "anime_name": "Nisekoi",
+        "anime_url": "https://gum-gum-streaming.com/nisekoi-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 222,
+        "anime_name": "Nisemonogatari",
+        "anime_url": "https://gum-gum-streaming.com/nisemonogatari-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 223,
+        "anime_name": "Noir",
+        "anime_url": "https://gum-gum-streaming.com/noir-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 224,
+        "anime_name": "Oban Star-Racers",
+        "anime_url": "https://gum-gum-streaming.com/oban-star-racers-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 225,
+        "anime_name": "One Piece",
+        "anime_url": "https://gum-gum-streaming.com/one-piece-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 226,
+        "anime_name": "Onyx Equinox",
+        "anime_url": "https://gum-gum-streaming.com/onyx-equinox-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 227,
+        "anime_name": "Owari no Seraph",
+        "anime_url": "https://gum-gum-streaming.com/owari-no-seraph-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 228,
+        "anime_name": "Pandora Hearts",
+        "anime_url": "https://gum-gum-streaming.com/pandora-hearts-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 229,
+        "anime_name": "Paradise Kiss",
+        "anime_url": "https://gum-gum-streaming.com/paradise-kiss-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 230,
+        "anime_name": "Paranoia Agent",
+        "anime_url": "https://gum-gum-streaming.com/paranoia-agent-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 231,
+        "anime_name": "Parasite",
+        "anime_url": "https://gum-gum-streaming.com/parasite-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 232,
+        "anime_name": "Piano no Mori",
+        "anime_url": "https://gum-gum-streaming.com/piano-no-mori-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 233,
+        "anime_name": "Pokémon",
+        "anime_url": "https://gum-gum-streaming.com/pokemon-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 234,
+        "anime_name": "Pokémon: Advanced Generation",
+        "anime_url": "https://gum-gum-streaming.com/pokemon-advanced-generation-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 235,
+        "anime_name": "Pokémon: Diamant et Perle",
+        "anime_url": "https://gum-gum-streaming.com/pokemon-diamant-et-perle-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 236,
+        "anime_name": "Pokémon: Noir et Blanc",
+        "anime_url": "https://gum-gum-streaming.com/pokemon-noir-et-blanc-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 237,
+        "anime_name": "Pokémon: XY",
+        "anime_url": "https://gum-gum-streaming.com/pokemon-xy-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 238,
+        "anime_name": "Pokémon XY & Z",
+        "anime_url": "https://gum-gum-streaming.com/pokemon-xy-z-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 239,
+        "anime_name": "Pokémon Générations",
+        "anime_url": "https://gum-gum-streaming.com/pokemon-generations-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 240,
+        "anime_name": "Pokemon: The Origin",
+        "anime_url": "https://gum-gum-streaming.com/pokemon-the-origin-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 241,
+        "anime_name": "Princess Princess",
+        "anime_url": "https://gum-gum-streaming.com/princess-princess-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 242,
+        "anime_name": "Psycho-pass",
+        "anime_url": "https://gum-gum-streaming.com/psycho-pass-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 243,
+        "anime_name": "Radiant",
+        "anime_url": "https://gum-gum-streaming.com/radiant-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 244,
+        "anime_name": "Ragnarök the Animation",
+        "anime_url": "https://gum-gum-streaming.com/ragnarok-the-animation-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 245,
+        "anime_name": "Rave Master",
+        "anime_url": "https://gum-gum-streaming.com/rave-master-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 246,
+        "anime_name": "Re :Zero kara Hajimeru Isekai Seikatsu",
+        "anime_url": "https://gum-gum-streaming.com/rezero-kara-hajimeru-isekai-seikatsu-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 247,
+        "anime_name": "Resident Evil: Infinite Darkness",
+        "anime_url": "https://gum-gum-streaming.com/resident-evil-infinite-darkness-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 248,
+        "anime_name": "Revisions",
+        "anime_url": "https://gum-gum-streaming.com/revisions-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 249,
+        "anime_name": "Rick et Morty",
+        "anime_url": "https://gum-gum-streaming.com/rick-et-morty-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 250,
+        "anime_name": "Romeo x Juliet",
+        "anime_url": "https://gum-gum-streaming.com/romeo-x-juliet-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 251,
+        "anime_name": "Rosario + Vampire",
+        "anime_url": "https://gum-gum-streaming.com/rosario-vampire-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 252,
+        "anime_name": "Rozen Maiden",
+        "anime_url": "https://gum-gum-streaming.com/rozen-maiden-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 253,
+        "anime_name": "Sailor Moon",
+        "anime_url": "https://gum-gum-streaming.com/sailor-moon-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 254,
+        "anime_name": "Sakamichi no Apollon",
+        "anime_url": "https://gum-gum-streaming.com/sakamichi-no-apollon-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 255,
+        "anime_name": "Saint Seiya: Saintia Shou",
+        "anime_url": "https://gum-gum-streaming.com/saint-seiya-saintia-shou-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 256,
+        "anime_name": "Samurai 7",
+        "anime_url": "https://gum-gum-streaming.com/samurai-7-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 257,
+        "anime_name": "Samurai Champloo",
+        "anime_url": "https://gum-gum-streaming.com/samurai-champloo-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 258,
+        "anime_name": "Samurai Gun",
+        "anime_url": "https://gum-gum-streaming.com/samurai-gun-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 259,
+        "anime_name": "School Days",
+        "anime_url": "https://gum-gum-streaming.com/school-days-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 260,
+        "anime_name": "School Rumble",
+        "anime_url": "https://gum-gum-streaming.com/school-rumble-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 261,
+        "anime_name": "Serial Experiments Lain",
+        "anime_url": "https://gum-gum-streaming.com/serial-experiments-lain-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 262,
+        "anime_name": "Shakugan No Shana",
+        "anime_url": "https://gum-gum-streaming.com/shakugan-no-shana-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 263,
+        "anime_name": "Shaman King",
+        "anime_url": "https://gum-gum-streaming.com/shaman-king-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 264,
+        "anime_name": "Shigurui",
+        "anime_url": "https://gum-gum-streaming.com/shigurui-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 265,
+        "anime_name": "Shingeki no Bahamut: Genesis",
+        "anime_url": "https://gum-gum-streaming.com/shingeki-no-bahamut-genesis-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 266,
+        "anime_name": "Shingeki No Kyojin (Attaque des Titans)",
+        "anime_url": "https://gum-gum-streaming.com/shingeki-no-kyojin-attaque-des-titans-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 267,
+        "anime_name": "Shinreigari: Ghost Hound",
+        "anime_url": "https://gum-gum-streaming.com/shinreigari-ghost-hound-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 268,
+        "anime_name": "Shugo Chara!",
+        "anime_url": "https://gum-gum-streaming.com/shugo-chara-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 269,
+        "anime_name": "Sirius the Jaeger",
+        "anime_url": "https://gum-gum-streaming.com/sirius-the-jaeger-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 270,
+        "anime_name": "Soul Eater",
+        "anime_url": "https://gum-gum-streaming.com/soul-eater-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 271,
+        "anime_name": "Special A",
+        "anime_url": "https://gum-gum-streaming.com/special-a-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 272,
+        "anime_name": "Spice and Wolf",
+        "anime_url": "https://gum-gum-streaming.com/spice-and-wolf-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 273,
+        "anime_name": "Steins;Gate",
+        "anime_url": "https://gum-gum-streaming.com/steins-gate-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 274,
+        "anime_name": "Street Fighter II V",
+        "anime_url": "https://gum-gum-streaming.com/street-fighter-ii-v-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 275,
+        "anime_name": "Suisei no Gargantina",
+        "anime_url": "https://gum-gum-streaming.com/suisei-no-gargantia-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 276,
+        "anime_name": "Sunabozu",
+        "anime_url": "https://gum-gum-streaming.com/sunabozu-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 277,
+        "anime_name": "Sword Art Online: Alicization",
+        "anime_url": "https://gum-gum-streaming.com/sword-art-online-alicization-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 278,
+        "anime_name": "Sword Art Online Alternative : Gun Gale Online",
+        "anime_url": "https://gum-gum-streaming.com/sword-art-online-alternative-gun-gale-online-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 279,
+        "anime_name": "Sword Gai: The Animation",
+        "anime_url": "https://gum-gum-streaming.com/sword-gai-the-animation-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 280,
+        "anime_name": "Tales of Zestiria the X",
+        "anime_url": "https://gum-gum-streaming.com/tales-of-zestiria-the-x-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 281,
+        "anime_name": "Tegami Bachi",
+        "anime_url": "https://gum-gum-streaming.com/tegami-bachi-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 282,
+        "anime_name": "Tenkuu Shinpan",
+        "anime_url": "https://gum-gum-streaming.com/tenkuu-shinpan-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 283,
+        "anime_name": "Tokyo Ghoul",
+        "anime_url": "https://gum-gum-streaming.com/tokyo-ghoul-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 284,
+        "anime_name": "Tokyo Mew Mew",
+        "anime_url": "https://gum-gum-streaming.com/tokyo-mew-mew-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 285,
+        "anime_name": "Tokyo Underground",
+        "anime_url": "https://gum-gum-streaming.com/tokyo-underground-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 286,
+        "anime_name": "Tonari no Kaibutsu",
+        "anime_url": "https://gum-gum-streaming.com/tonari-no-kaibutsu-kun-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 287,
+        "anime_name": "Toriko",
+        "anime_url": "https://gum-gum-streaming.com/toriko-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 288,
+        "anime_name": "Touhou Gensou Mangekyou",
+        "anime_url": "https://gum-gum-streaming.com/touhou-gensou-mangekyou-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 289,
+        "anime_name": "Trese: Entre deux mondes",
+        "anime_url": "https://gum-gum-streaming.com/trese-entre-deux-mondes-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 290,
+        "anime_name": "Trinity Blood",
+        "anime_url": "https://gum-gum-streaming.com/trinity-blood-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 291,
+        "anime_name": "Trigun",
+        "anime_url": "https://gum-gum-streaming.com/trigun-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 292,
+        "anime_name": "Tsubasa Chronicle",
+        "anime_url": "https://gum-gum-streaming.com/tsubasa-chronicle-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 293,
+        "anime_name": "Uchuu Kaizoku Captain Harlock",
+        "anime_url": "https://gum-gum-streaming.com/uchuu-kaizoku-captain-harlock-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 294,
+        "anime_name": "Ultraman",
+        "anime_url": "https://gum-gum-streaming.com/ultraman-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 295,
+        "anime_name": "Ulysses 31",
+        "anime_url": "https://gum-gum-streaming.com/ulysses-31-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 296,
+        "anime_name": "Valerian & Laureline",
+        "anime_url": "https://gum-gum-streaming.com/valerian-laureline-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 297,
+        "anime_name": "Valkyrie Apocalypse",
+        "anime_url": "https://gum-gum-streaming.com/valkyrie-apocalypse-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 298,
+        "anime_name": "Vandread",
+        "anime_url": "https://gum-gum-streaming.com/vandread-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 299,
+        "anime_name": "Violet Evergarden",
+        "anime_url": "https://gum-gum-streaming.com/violet-evergarden-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 300,
+        "anime_name": "Visions d’Escaflowne",
+        "anime_url": "https://gum-gum-streaming.com/visions-descaflowne-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 301,
+        "anime_name": "Wakfu",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 302,
+        "anime_name": "Witchcraft Works",
+        "anime_url": "https://gum-gum-streaming.com/witchcraft-works-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 303,
+        "anime_name": "X-Men Evolution",
+        "anime_url": "https://gum-gum-streaming.com/x-men-evolution-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 304,
+        "anime_name": "X-Men (2011)",
+        "anime_url": "https://gum-gum-streaming.com/x-men-2011-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 305,
+        "anime_name": "xxxHOLiC",
+        "anime_url": "https://gum-gum-streaming.com/xxxholic-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 306,
+        "anime_name": "Yasuke",
+        "anime_url": "https://gum-gum-streaming.com/yasuke-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 307,
+        "anime_name": "Yu Yu Hakusho",
+        "anime_url": "https://gum-gum-streaming.com/yu-yu-hakusho-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 308,
+        "anime_name": "Zatch Bell",
+        "anime_url": "https://gum-gum-streaming.com/zatch-bell-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 309,
+        "anime_name": "Zetman",
+        "anime_url": "https://gum-gum-streaming.com/zetman-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    },
+    {
+        "id_product": 310,
+        "anime_name": "Zombie Loan",
+        "anime_url": "https://gum-gum-streaming.com/zombie-loan-vf/",
+        "anime_language": "VF",
+        "collect_date": "2021_07_16"
+    }
+]
