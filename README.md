@@ -1,5 +1,5 @@
-# Web_Scraper
-Web_Scraper.
+# ESGI_Animes
+ESGI_Animes.
 
 # Contributors
 * [MEDELLEL Sayah](https://github.com/Hayas92)
