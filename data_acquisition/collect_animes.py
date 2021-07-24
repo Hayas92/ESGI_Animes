@@ -24,7 +24,7 @@ CHROME_OPTIONS.add_argument("--no-sandbox")
 CHROME_OPTIONS.add_argument("--window-size=1280,720")
 CHROME_OPTIONS.add_argument("--headless")
 
-COLLECT_DATE = '2021_07_21'
+COLLECT_DATE = '2021_07_16'
 
 
 def main():
