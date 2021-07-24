@@ -1,0 +1,44 @@
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="{% url 'home' %}">ESGI Animés </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <script>
+
+      </script>
+        {% with url_name=request.resolver_match.url_name %}
+
+        <li class="nav-item">
+          <a class="nav-link {% if url_name == 'anime_list' %}active{% endif %} " href="{% url 'anime_list' %}">Tous les animés</a>
+        </li>
+
+         <li class="nav-item">
+          <a class="nav-link {% if url_name == 'status_in_progress' %}active{% endif %} " href="{% url 'status_in_progress' %}" >En cours </a>
+        </li>
+
+         <li class="nav-item">
+          <a class="nav-link {% if url_name == 'status_finished' %}active{% endif %} " href="{% url 'status_finished' %}" >Terminé </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link {% if url_name == 'vf' %}active{% endif %} " href="{% url 'vf' %}">VF</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link {% if url_name == 'vostfr' %}active{% endif %} " href="{% url 'vostfr' %}" >VOSTFR</a>
+        </li>
+      {% endwith %}
+      </ul>
+      <form class="d-flex" method=POST action="{% url 'search-animes' %}">
+        {% csrf_token %}
+        <input class="form-control me-2" type="search" placeholder="Rechercher" aria-label="Search" name="searched">
+        <button class="btn btn-outline-secondary" type="submit">&#128269;</button>
+      </form>
+
+    </div>
+  </div>
+</nav>

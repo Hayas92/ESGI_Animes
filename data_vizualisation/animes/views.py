@@ -20,6 +20,57 @@ def animes(request):
 	return render(request,"anime_list.html",data)
 
 
+def vf_animes(request):
+	animes = Anime.objects.all()
+	episodes = Episode.objects.all()
+	data = {'animes': animes, 'episodes': episodes}
+	return render(request, "show_vf_animes.html", data)
+
+
+def vostfr_animes(request):
+	animes = Anime.objects.all()
+	episodes = Episode.objects.all()
+	data = {'animes': animes, 'episodes': episodes}
+	return render(request, "show_vostfr_animes.html", data)
+
+def status_in_progress(request):
+	animes = Anime.objects.all()
+	episodes = Episode.objects.all()
+	data = {'animes': animes, 'episodes': episodes}
+	return render(request, "show_animes_in_progress.html", data)
+
+def status_finished(request):
+	animes = Anime.objects.all()
+	episodes = Episode.objects.all()
+	data = {'animes': animes, 'episodes': episodes}
+	return render(request, "show_animes_finished.html", data)
+
+
+def search_animes(request):
+	if request.method == "POST":
+		searched = request.POST['searched']
+		animes = Anime.objects.filter(anime_name__contains=searched)
+
+		return render(request,
+		'search_animes.html',
+		{'searched':searched,
+		'animes':animes})
+	else:
+		return render(request, 
+		'search_animes.html',
+		{})
+
+
+def show_anime(request,anime_id):
+	anime = Anime.objects.get(id=anime_id)
+	episodes = Episode.objects.all()
+	t = loader.get_template('show_anime.html')
+	if anime.id == anime_id:
+		data = {'anime': anime, 'episodes': episodes}
+		return HttpResponse(t.render(data, request))
+
+
+
 def home(request, year=datetime.now().year, month=datetime.now().strftime('%B')):
 	month = month.capitalize()
 
