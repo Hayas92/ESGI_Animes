@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+{% block title %} Tous les animés {% endblock %}
+{% block content %}
+
+        <h1>Tous les animés </h1>
+	<br/>
+	
+{% for anime in animes %}
+
+<div class="card">
+  <h6 class="card-header">
+    {{ anime }}
+  </h6>
+  <div class="card-body">
+    <p class="card-text">
+    	<ul>
+<li> Lien : <a href={{ anime.anime_url }} target="_blank">{{ anime.anime_url }}</a> </li>
+<li>Type : {{ anime.anime_type   }}</li>
+<li>Genre : {{ anime.anime_kind    }}</li>
+<li>Nombre d'épisodes : {{ anime.n_episodes }}</li>
+<li>Synopsis : {{ anime.synopsis  }}</li>
+	</ul>
+
+    </p>
+       <button class="btn btn-success" onclick=" window.open('{% url 'show_anime' anime.id  %}','_blank')"> Plus d'infos </button>
+  </div>
+</div>
+
+
+
+
+
+	<br/><br/>
+{% endfor %}
+	
+	
+{% endblock %}

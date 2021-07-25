@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+{% block title %} Résultats de recherche {% endblock %}
+{% block content %}
+	<center>
+	{% if searched %}
+		<h1>Résultats pour {{ searched }} : </h1>
+		<br/>
+		{% for anime in animes %}
+			<div class="card">
+  <h6 class="card-header">
+    {{ anime }}
+  </h6>
+  <div class="card-body">
+    <p class="card-text">
+<li> Lien : <a href={{ anime.anime_url }} target="_blank">{{ anime.anime_url }}</a> </li>
+<li>Type : {{ anime.anime_type   }}</li>
+<li>Genre : {{ anime.anime_kind    }}</li>
+<li>Nombre d'épisodes : {{ anime.n_episodes }}</li>
+<li>Synopsis : {{ anime.synopsis  }}</li>
+
+    </p>
+      <button class="btn btn-success" onclick=" window.open('{% url 'show_anime' anime.id  %}','_blank')"> Plus d'infos </button>
+  </div>
+</div>
+
+		</br></br>
+
+		{% endfor %}
+
+	{% else %}
+		<h1>Oups.. vous avez oublié de remplir le champ de recherche </h1>
+	{% endif %}
+
+
+
+
+	</center>
+{% endblock %}

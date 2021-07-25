@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% block title %} {{ anime }} {% endblock %}
+{% block content %}
+	<title>{{ anime }}</title>
+	<h1>{{ anime }} </h1>
+	<br/>
+
+<div class="card">
+  <div class="card-body">
+    <p class="card-text">
+    	<ul>
+<li> Lien : <a href={{ anime.anime_url }} target="_blank">{{ anime.anime_url }}</a> </li>
+<li>Langue : {{ anime.anime_language }}</li>
+<li>Note : {{ anime.anime_mean_rating }}</li>
+<li>Auteurs : {{ anime.authors  }}</li>
+<li>Type : {{ anime.anime_type   }}</li>
+<li>Genre : {{ anime.anime_kind    }}</li>
+<li>Studio d'animation : {{ anime.animation_studio }}</li>
+<li>Année de production : {{ anime.year_of_production }}</li>
+<li>Nombre d'épisodes : {{ anime.n_episodes }}</li>
+<li>Statut : {{ anime.status  }}</li>
+<li>Synopsis : {{ anime.synopsis  }}</li>
+	</ul>
+
+
+{% for episode in episodes %}
+{% if episode.anime_url ==  anime.anime_url %}
+<h6> {{ episode.episode_name }}   </h6>
+      <ul>
+<li><a href={{ episode.episode_url }} target="_blank">{{ episode.episode_url }}</a></li>
+
+
+          </ul>
+    {% endif %}
+      {% endfor %}
+    </p>
+  </div>
+</div>
+
+
+
+
+
+	<br/><br/>
+
+{% endblock %}
