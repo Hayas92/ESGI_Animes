@@ -1,0 +1,434 @@
+[
+    {
+        "episode_id": "d4b204bb-eaf3-11eb-a3b4-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 1: L’Enfant des brumes",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-1-vf/"
+    },
+    {
+        "episode_id": "d4b5393e-eaf3-11eb-bc07-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 2: Yugo l’Éliatrope",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-2-vf/"
+    },
+    {
+        "episode_id": "d4b81eeb-eaf3-11eb-9756-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 3: Le Corbeau noir",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-3-vf/"
+    },
+    {
+        "episode_id": "d4bb05f5-eaf3-11eb-b0fb-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 4: Miss Moche",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-4-vf/"
+    },
+    {
+        "episode_id": "d4be135f-eaf3-11eb-b58f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 5: Les Cinq Magnifiques",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-5-vf/"
+    },
+    {
+        "episode_id": "d4c11dd2-eaf3-11eb-9a4a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 6: Vampyro",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-6-vf/"
+    },
+    {
+        "episode_id": "d4c3dc32-eaf3-11eb-9e4c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 7: Vénéneuse",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-7-vf/"
+    },
+    {
+        "episode_id": "d4c69b85-eaf3-11eb-af2d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 8: Xav le boulanger",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-8-vf/"
+    },
+    {
+        "episode_id": "d4c95b56-eaf3-11eb-8351-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 9: Le sac de Ruel",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-9-vf/"
+    },
+    {
+        "episode_id": "d4cc096c-eaf3-11eb-ba7e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 10: L’Enfer du Boufbowl (1/3)",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-10-vf/"
+    },
+    {
+        "episode_id": "d4cec615-eaf3-11eb-9f80-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 11: L’Enfer du Boufbowl (2/3)",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-11-vf/"
+    },
+    {
+        "episode_id": "d4d1ac5e-eaf3-11eb-a7fa-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 12: L’Enfer du Boufbowl (3/3)",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-12-vf/"
+    },
+    {
+        "episode_id": "d4d46bf6-eaf3-11eb-bd62-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 13: Calme bleu",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-13-vf/"
+    },
+    {
+        "episode_id": "d4d68ea8-eaf3-11eb-980d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 14: L’Île de Moon",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-14-vf/"
+    },
+    {
+        "episode_id": "d4d8b1de-eaf3-11eb-a6c1-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 15: Adamaï",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-15-vf/"
+    },
+    {
+        "episode_id": "d4dad4a5-eaf3-11eb-8828-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 16: L’Éliacube",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-16-vf/"
+    },
+    {
+        "episode_id": "d4dcf7a3-eaf3-11eb-b20f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 17: Grougaloragran l’éternel",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-17-vf/"
+    },
+    {
+        "episode_id": "d4df0920-eaf3-11eb-ba8d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 18: La Confrérie du Tofu",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-18-vf/"
+    },
+    {
+        "episode_id": "d4e12c36-eaf3-11eb-abbf-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 19: Le Royaume Sadida",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-19-vf/"
+    },
+    {
+        "episode_id": "d4e34e84-eaf3-11eb-971c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 20: L’Arbre de vie",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-20-vf/"
+    },
+    {
+        "episode_id": "d4e57236-eaf3-11eb-82da-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 21: Igôle",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-21-vf/"
+    },
+    {
+        "episode_id": "d4e79536-eaf3-11eb-b8a2-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 22: Rubilax",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-22-vf/"
+    },
+    {
+        "episode_id": "d4e9b846-eaf3-11eb-8894-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 23: La Quête du Dofus",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-23-vf/"
+    },
+    {
+        "episode_id": "d4ec0242-eaf3-11eb-9495-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 24: Retrouvailles",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-24-vf/"
+    },
+    {
+        "episode_id": "d4ee2544-eaf3-11eb-8d8a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 25: J’entre dans la légende",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-25-vf/"
+    },
+    {
+        "episode_id": "d4f0485b-eaf3-11eb-9c62-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 26: Le mont Zinit",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-26-vf/"
+    },
+    {
+        "episode_id": "d4f6d857-eaf3-11eb-90eb-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Spécial 1: Noximilien l’horloger",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-special-1-vf"
+    },
+    {
+        "episode_id": "d4f92265-eaf3-11eb-922b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Spécial 2: Goultard le Barbare",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-special-2-vf"
+    },
+    {
+        "episode_id": "d4fe60d8-eaf3-11eb-9821-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 1: Monstres et chimères",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-1-vf/"
+    },
+    {
+        "episode_id": "d500ab1a-eaf3-11eb-97d7-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 2: Rubilaxia",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-2-vf/"
+    },
+    {
+        "episode_id": "d502f4ea-eaf3-11eb-977b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 3: Remington Smisse",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-3-vf/"
+    },
+    {
+        "episode_id": "d50513eb-eaf3-11eb-a045-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 4: Le Retour de Pinpin",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-4-vf/"
+    },
+    {
+        "episode_id": "d507362d-eaf3-11eb-b8c3-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 5: Le Dragon Cochon",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-5-vf/"
+    },
+    {
+        "episode_id": "d5096f69-eaf3-11eb-abe0-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 6: Qilby",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-6-vf/"
+    },
+    {
+        "episode_id": "d50b9272-eaf3-11eb-94fb-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 7: Guet-apens",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-7-vf/"
+    },
+    {
+        "episode_id": "d50dcd82-eaf3-11eb-bada-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 8: Le Chevalier Justice",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-8-vf/"
+    },
+    {
+        "episode_id": "d50ff07b-eaf3-11eb-a27c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 9: Le monde de Rushu",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-9-vf/"
+    },
+    {
+        "episode_id": "d5123b54-eaf3-11eb-bd14-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 10: Kriss la Krass",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-10-vf/"
+    },
+    {
+        "episode_id": "d514ac6d-eaf3-11eb-8bda-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 11: Le Boufbowler Masqué",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-11-vf/"
+    },
+    {
+        "episode_id": "d5171ce5-eaf3-11eb-8f31-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 12: Mmmmmmmmmporpg",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-12-vf/"
+    },
+    {
+        "episode_id": "d5198e1e-eaf3-11eb-bd2f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 13: La nuit des soiffards",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-13-vf/"
+    },
+    {
+        "episode_id": "d51bff1c-eaf3-11eb-b769-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 14: Le voleur de voix",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-14-vf/"
+    },
+    {
+        "episode_id": "d51e980d-eaf3-11eb-a387-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 15: L’île des wabbits",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-15-vf/"
+    },
+    {
+        "episode_id": "d5210930-eaf3-11eb-ba52-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 16: La fontaine maudite",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-16-vf/"
+    },
+    {
+        "episode_id": "d5232b7c-eaf3-11eb-98a9-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 17: Le conseil des Douze",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-17-vf/"
+    },
+    {
+        "episode_id": "d5254e77-eaf3-11eb-926a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 18: Cléophée",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-18-vf/"
+    },
+    {
+        "episode_id": "d5277188-eaf3-11eb-836f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 19: Pour une poignée de kamas",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-19-vf/"
+    },
+    {
+        "episode_id": "d52988cd-eaf3-11eb-99d3-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 20: Le Zinit",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-20-vf/"
+    },
+    {
+        "episode_id": "d52bd2ec-eaf3-11eb-ae6e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 21: L’île des Bellaphones",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-21-vf/"
+    },
+    {
+        "episode_id": "d52dedf4-eaf3-11eb-8d7d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 22: Le silence des anneaux",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-22-vf/"
+    },
+    {
+        "episode_id": "d5301118-eaf3-11eb-99c4-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 23: Les Griffes Pourpres",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-23-vf/"
+    },
+    {
+        "episode_id": "d5324f22-eaf3-11eb-b22e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 24: Phaeris le puissant",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-24-vf/"
+    },
+    {
+        "episode_id": "d534bfd3-eaf3-11eb-9ced-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 25: La dimension blanche",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-25-vf/"
+    },
+    {
+        "episode_id": "d536fad2-eaf3-11eb-9abf-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 26: Le peuple Éliatrope",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-26-vf/"
+    },
+    {
+        "episode_id": "d53bb533-eaf3-11eb-be6e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Spécial 3: Ogrest, la légende",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-special-3-vf"
+    },
+    {
+        "episode_id": "d53dff30-eaf3-11eb-8729-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• S2 Spécial 1: Le Trône de Glace",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-special-1-vf"
+    },
+    {
+        "episode_id": "d54049a6-eaf3-11eb-a63c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• S2 Spécial 2: Ush",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-special-2-vf"
+    },
+    {
+        "episode_id": "d542936e-eaf3-11eb-97ab-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• S2 Spécial 3: Le Mont Dragons",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s2-special-3-vf"
+    },
+    {
+        "episode_id": "d5474e95-eaf3-11eb-a180-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 1: Tomber de haut",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-1-vf/"
+    },
+    {
+        "episode_id": "d5498ddd-eaf3-11eb-bf4c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 2: Tel père, telle fille",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-2-vf/"
+    },
+    {
+        "episode_id": "d54bb87a-eaf3-11eb-bb90-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 3: La Tour d’Oropo",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-3-vf/"
+    },
+    {
+        "episode_id": "d54dc79b-eaf3-11eb-81c9-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 4: Pas si bête",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-4-vf/"
+    },
+    {
+        "episode_id": "d5500039-eaf3-11eb-b421-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 5: Les Iops se cachent pour pleurer",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-5-vf/"
+    },
+    {
+        "episode_id": "d5522335-eaf3-11eb-a5a6-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 6: L’Arbre à Ecaflip",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-6-vf/"
+    },
+    {
+        "episode_id": "d5544633-eaf3-11eb-bf77-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 7: Faut pas flipper",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-7-vf/"
+    },
+    {
+        "episode_id": "d556684e-eaf3-11eb-8c53-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 8: Arpagone",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-8-vf/"
+    },
+    {
+        "episode_id": "d5588b96-eaf3-11eb-ab1c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 9: Le Temple de Sadida",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-9-vf/"
+    },
+    {
+        "episode_id": "d55ad54d-eaf3-11eb-8b3e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 10: Lorsque les murs tombent",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-10-vf/"
+    },
+    {
+        "episode_id": "d55cf864-eaf3-11eb-9dd9-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 11: Oropo",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-11-vf/"
+    },
+    {
+        "episode_id": "d55f4260-eaf3-11eb-a887-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 12: L’Hyperzaap",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-12-vf/"
+    },
+    {
+        "episode_id": "d5616563-eaf3-11eb-94af-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Épisode 13: Inglorium",
+        "episode_url": "https://gum-gum-streaming.com/wakfu-s3-13-vf/"
+    },
+    {
+        "episode_id": "d565dbc4-eaf3-11eb-b3a9-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/wakfu-vf/",
+        "episode_name": "• Film 1: Dofus, livre 1: Julith",
+        "episode_url": "https://gum-gum-streaming.com/dofus-livre-1-julith/"
+    }
+]

@@ -1,0 +1,962 @@
+[
+    {
+        "episode_id": "05c8b168-ea9d-11eb-9df2-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 1: Dio l’envahisseur",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-1-vostfr/"
+    },
+    {
+        "episode_id": "05cafb03-ea9d-11eb-a2c5-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 2: Une lettre du passé",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-2-vostfr/"
+    },
+    {
+        "episode_id": "05cd4527-ea9d-11eb-8eee-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 3: Adolescence avec Dio",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-3-vostfr/"
+    },
+    {
+        "episode_id": "05cf8f3d-ea9d-11eb-bddb-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 4: Overdrive",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-4-vostfr/"
+    },
+    {
+        "episode_id": "05d1b222-ea9d-11eb-b8af-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 5: Chevaliers des ténèbres",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-5-vostfr/"
+    },
+    {
+        "episode_id": "05d3fc33-ea9d-11eb-8fc6-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 6: Courage du lendemain",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-6-vostfr/"
+    },
+    {
+        "episode_id": "05d6465a-ea9d-11eb-9547-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 7: Le successeur",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-7-vostfr/"
+    },
+    {
+        "episode_id": "05d89069-ea9d-11eb-a9a8-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 8: Le combat sanglant ! JoJo et Dio",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-8-vostfr/"
+    },
+    {
+        "episode_id": "05db9efc-ea9d-11eb-8592-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 9: La dernière Onde !",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-9-vostfr/"
+    },
+    {
+        "episode_id": "05e16b1a-ea9d-11eb-96ce-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 10: JoJo de New York",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-10-vostfr/"
+    },
+    {
+        "episode_id": "05e472de-ea9d-11eb-871f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 11: Le virtuose du jeu",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-11-vostfr/"
+    },
+    {
+        "episode_id": "05e7ce66-ea9d-11eb-87c8-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 12: L’homme du pilier",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-12-vostfr/"
+    },
+    {
+        "episode_id": "05ebdeb4-ea9d-11eb-938e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 13: JoJo contre la créature ultime",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-13-vostfr/"
+    },
+    {
+        "episode_id": "05ef95d6-ea9d-11eb-893c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 14: Guerriers d’élite ancestraux",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-14-vostfr/"
+    },
+    {
+        "episode_id": "05f33c31-ea9d-11eb-ad86-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 15: L’aptitude des héros",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-15-vostfr/"
+    },
+    {
+        "episode_id": "05f6e5e7-ea9d-11eb-97c8-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 16: Lisa Lisa, coach des Ondes",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-16-vostfr/"
+    },
+    {
+        "episode_id": "05fab5f9-ea9d-11eb-b36f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 17: Le piège parfait !",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-17-vostfr/"
+    },
+    {
+        "episode_id": "05fe546b-ea9d-11eb-8cea-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 18: Stroheim contre-attaque",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-18-vostfr/"
+    },
+    {
+        "episode_id": "06023022-ea9d-11eb-b899-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 19: Ruée vers la falaise de la mort",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-19-vostfr/"
+    },
+    {
+        "episode_id": "0605f8bd-ea9d-11eb-b70e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 20: La jeunesse solitaire de Caesar",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-20-vostfr/"
+    },
+    {
+        "episode_id": "06099dfd-ea9d-11eb-8424-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 21: Cent contre deux",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-21-vostfr/"
+    },
+    {
+        "episode_id": "060d47a2-ea9d-11eb-ad2f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 22: Un véritable guerrier !",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-22-vostfr/"
+    },
+    {
+        "episode_id": "0610fcb1-ea9d-11eb-b723-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 23: Le guerrier du vent",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-23-vostfr/"
+    },
+    {
+        "episode_id": "0614ccc2-ea9d-11eb-b387-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 24:Les liens qui unissent JoJo",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-24-vostfr/"
+    },
+    {
+        "episode_id": "06184f76-ea9d-11eb-95db-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 25: La naissance de l’être suprême !",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-25-vostfr/"
+    },
+    {
+        "episode_id": "061c6e77-ea9d-11eb-bc1c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 26:L’homme qui devint un dieu !",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-26-vostfr/"
+    },
+    {
+        "episode_id": "06277019-ea9d-11eb-869e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 1: Le possédé",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-1-vostfr/"
+    },
+    {
+        "episode_id": "062b40dc-ea9d-11eb-9dd4-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 2: Qui rendra le jugement ?",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-2-vostfr/"
+    },
+    {
+        "episode_id": "062f461f-ea9d-11eb-b085-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 3: Le maléfice de Dio",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-3-vostfr/"
+    },
+    {
+        "episode_id": "06333dee-ea9d-11eb-bda1-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 4: Tower of Gray",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-4-vostfr/"
+    },
+    {
+        "episode_id": "06370eb7-ea9d-11eb-a8b0-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 5: Silver Chariot",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-5-vostfr/"
+    },
+    {
+        "episode_id": "063ab629-ea9d-11eb-a14a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 6: Dark Blue Moon",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-6-vostfr/"
+    },
+    {
+        "episode_id": "063e7b7e-ea9d-11eb-9484-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 7: Strength",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-7-vostfr/"
+    },
+    {
+        "episode_id": "0642252f-ea9d-11eb-823c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 8: Devil",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-8-vostfr/"
+    },
+    {
+        "episode_id": "0645ccff-ea9d-11eb-8a7b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 9: Yellow Temperence",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-9-vostfr/"
+    },
+    {
+        "episode_id": "064e3201-ea9d-11eb-9565-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 10: Emperor et Hanged Man, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-10-vostfr/"
+    },
+    {
+        "episode_id": "065229b5-ea9d-11eb-ad67-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 11: Emperor et Hanged Man, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-11-vostfr/"
+    },
+    {
+        "episode_id": "0655fa78-ea9d-11eb-865c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 12: Empress",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-12-vostfr/"
+    },
+    {
+        "episode_id": "06595609-ea9d-11eb-a342-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 13: Wheel of Fortune",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-13-vostfr/"
+    },
+    {
+        "episode_id": "065c3d1c-ea9d-11eb-91ab-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 14: Justice, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-14-vostfr/"
+    },
+    {
+        "episode_id": "065f4a88-ea9d-11eb-8d3d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 15: Justice, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-15-vostfr/"
+    },
+    {
+        "episode_id": "06625770-ea9d-11eb-8071-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 16: Lovers, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-16-vostfr/"
+    },
+    {
+        "episode_id": "066600f9-ea9d-11eb-89be-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 17: Lovers, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-17-vostfr/"
+    },
+    {
+        "episode_id": "0669aaa3-ea9d-11eb-8240-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 18: The Sun",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-18-vostfr/"
+    },
+    {
+        "episode_id": "066d2d4e-ea9d-11eb-90c9-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 19: Death 13, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-19-vostfr/"
+    },
+    {
+        "episode_id": "0670aff6-ea9d-11eb-b2c4-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 20: Death 13, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-20-vostfr/"
+    },
+    {
+        "episode_id": "0673bd5d-ea9d-11eb-ba34-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 21: Judgement, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-21-vostfr/"
+    },
+    {
+        "episode_id": "06782ae4-ea9d-11eb-919a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 22: Judgement, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-22-vostfr/"
+    },
+    {
+        "episode_id": "067b5eeb-ea9d-11eb-a871-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 23: High Priestess, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-23-vostfr/"
+    },
+    {
+        "episode_id": "067e5894-ea9d-11eb-b16f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 24: High Priestess, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-24-vostfr/"
+    },
+    {
+        "episode_id": "06844c8d-ea9d-11eb-875e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 25: Iggy (The Fool) et N’Doul (Geb), Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-25-vostfr/"
+    },
+    {
+        "episode_id": "06870bd7-ea9d-11eb-bab5-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 26: Iggy (The Fool) et N’Doul (Geb), Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-26-vostfr/"
+    },
+    {
+        "episode_id": "0689c610-ea9d-11eb-a64a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 27: Oingo (Khnum) et Boingo (Thoth)",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-27-vostfr/"
+    },
+    {
+        "episode_id": "068c84d1-ea9d-11eb-a9b4-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 28: Anubis, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-28-vostfr/"
+    },
+    {
+        "episode_id": "068fe080-ea9d-11eb-9280-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 29: Anubis, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-29-vostfr/"
+    },
+    {
+        "episode_id": "0691f86f-ea9d-11eb-937e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 30: Mariah (Bast), Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-30-vostfr/"
+    },
+    {
+        "episode_id": "06942cd0-ea9d-11eb-831d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 31: Mariah (Bast), Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-31-vostfr/"
+    },
+    {
+        "episode_id": "0696c511-ea9d-11eb-bf98-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 32: Alessi (Sethan), Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-32-vostfr/"
+    },
+    {
+        "episode_id": "06998457-ea9d-11eb-b57a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 33: Alessi (Sethan), Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-33-vostfr/"
+    },
+    {
+        "episode_id": "069c4392-ea9d-11eb-bc55-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 34: D’Arby the Gambler, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-34-vostfr/"
+    },
+    {
+        "episode_id": "069f02e8-ea9d-11eb-b4a7-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 35: D’Arby the Gambler, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-35-vostfr/"
+    },
+    {
+        "episode_id": "06a1c223-ea9d-11eb-b0b5-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 36: Hol Horse et Boingo, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-36-vostfr/"
+    },
+    {
+        "episode_id": "06a5c218-ea9d-11eb-95d3-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 37: Hol Horse et Boingo, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-37-vostfr/"
+    },
+    {
+        "episode_id": "06a85a2e-ea9d-11eb-a1ef-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 38: Pet Shop, le gardien des enfers, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-38-vostfr/"
+    },
+    {
+        "episode_id": "06aaf2f0-ea9d-11eb-98e8-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 39: Pet Shop, le gardien des enfers – Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-39-vostfr/"
+    },
+    {
+        "episode_id": "06ace685-ea9d-11eb-8c70-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 40: D’Arby the Player, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-40-vostfr/"
+    },
+    {
+        "episode_id": "06af6624-ea9d-11eb-8387-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 41: D’Arby the Player, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-41-vostfr/"
+    },
+    {
+        "episode_id": "06b1891c-ea9d-11eb-9520-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 42: Vanilla Ice, Miasmes d’outre-espace, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-42-vostfr/"
+    },
+    {
+        "episode_id": "06b3fa4a-ea9d-11eb-9a0c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 43: Vanilla Ice, Miasmes d’outre-espace, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-43-vostfr/"
+    },
+    {
+        "episode_id": "06b660ba-ea9d-11eb-984c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 44: Vanilla Ice, Miasmes d’outre-espace, Partie 3",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-44-vostfr/"
+    },
+    {
+        "episode_id": "06b8726d-ea9d-11eb-9314-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 45: Le monde de Dio, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-45-vostfr/"
+    },
+    {
+        "episode_id": "06ba955a-ea9d-11eb-9cb7-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 46: Le monde de Dio, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-46-vostfr/"
+    },
+    {
+        "episode_id": "06bcb863-ea9d-11eb-9e06-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 47: Le monde de Dio, Partie 3",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-47-vostfr/"
+    },
+    {
+        "episode_id": "06beeb0e-ea9d-11eb-ae91-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 48: Un long périple, adieu les amis",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s2-48-vostfr/"
+    },
+    {
+        "episode_id": "06c689b2-ea9d-11eb-9de8-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 1: Jotaro Kujo rencontre Josuke Higashikata !",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-1-vostfr/"
+    },
+    {
+        "episode_id": "06c8e057-ea9d-11eb-b6a9-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 2: Josuke Higashikata rencontre Angelo !",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-2-vostfr/"
+    },
+    {
+        "episode_id": "06cb0367-ea9d-11eb-bcff-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 3: Les frères Nijimura, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-3-vostfr/"
+    },
+    {
+        "episode_id": "06cd3b26-ea9d-11eb-b523-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 4: Les frères Nijimura, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-4-vostfr/"
+    },
+    {
+        "episode_id": "06d048ef-ea9d-11eb-b3fe-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 5: Les frères Nijimura, Partie 3",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-5-vostfr/"
+    },
+    {
+        "episode_id": "06d2f636-ea9d-11eb-99f3-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 6: Koichi Hirose (Echoes)",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-6-vostfr/"
+    },
+    {
+        "episode_id": "06d58dfc-ea9d-11eb-b416-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 7: Toshizaku Hazamada (Surface)",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-7-vostfr/"
+    },
+    {
+        "episode_id": "06d84d3f-ea9d-11eb-ba17-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 8: Yukako Yamagishi est amoureuse, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-8-vostfr/"
+    },
+    {
+        "episode_id": "06db0d3e-ea9d-11eb-ba46-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 9: Yukako Yamagishi est amoureuse, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-9-vostfr/"
+    },
+    {
+        "episode_id": "06dda574-ea9d-11eb-ae68-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 10: Allons manger italien !",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-10-vostfr/"
+    },
+    {
+        "episode_id": "06e03dab-ea9d-11eb-bba4-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 11: Red Hot Chili Pepper, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-11-vostfr/"
+    },
+    {
+        "episode_id": "06e287c4-ea9d-11eb-a65b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 12: Red Hot Chili Pepper, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-12-vostfr/"
+    },
+    {
+        "episode_id": "06e5060d-ea9d-11eb-a115-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 13: On est tombé sur un sale truc !",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-13-vostfr/"
+    },
+    {
+        "episode_id": "06e79ce8-ea9d-11eb-a589-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 14: Visite chez un mangaka, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-14-vostfr/"
+    },
+    {
+        "episode_id": "06ea3472-ea9d-11eb-ba13-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 15: Visite chez un mangaka, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-15-vostfr/"
+    },
+    {
+        "episode_id": "06eea19b-ea9d-11eb-8d4b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 16: La chasse est ouverte !",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-16-vostfr/"
+    },
+    {
+        "episode_id": "06f187d8-ea9d-11eb-9829-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 17: L’aventure de Rohan Kishibe",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-17-vostfr/"
+    },
+    {
+        "episode_id": "06f42008-ea9d-11eb-b790-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 18: La moisson de Shigechi, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-18-vostfr/"
+    },
+    {
+        "episode_id": "06f66a1d-ea9d-11eb-8ce6-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 19: La moisson de Shigechi, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-19-vostfr/"
+    },
+    {
+        "episode_id": "06f8eba2-ea9d-11eb-91d8-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 20: Yukako Yamagishi se rêve en Cendrillon",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-20-vostfr/"
+    },
+    {
+        "episode_id": "06fb916c-ea9d-11eb-8b81-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 21: Yoshikage Kira veut la tranquillité, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-21-vostfr/"
+    },
+    {
+        "episode_id": "06fe772a-ea9d-11eb-9a85-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 22: Yoshikage Kira veut la tranquillité, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-22-vostfr/"
+    },
+    {
+        "episode_id": "07015d6a-ea9d-11eb-9090-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 23: Sheer Heart Attack, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-23-vostfr/"
+    },
+    {
+        "episode_id": "0703f5b1-ea9d-11eb-a5ef-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 24: Sheer Heart Attack, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-24-vostfr/"
+    },
+    {
+        "episode_id": "0706dbe5-ea9d-11eb-88f5-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 25: Atom Heart Father",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-25-vostfr/"
+    },
+    {
+        "episode_id": "0709c240-ea9d-11eb-81e6-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 26: Pierre-feuille-ciseaux !",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-26-vostfr/"
+    },
+    {
+        "episode_id": "070c78b1-ea9d-11eb-b85d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 27: Je suis un extraterrestre",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-27-vostfr/"
+    },
+    {
+        "episode_id": "070f05fe-ea9d-11eb-a50b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 28: Highway Star, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-28-vostfr/"
+    },
+    {
+        "episode_id": "0711c54c-ea9d-11eb-b29b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 29: Highway Star, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-29-vostfr/"
+    },
+    {
+        "episode_id": "071484b9-ea9d-11eb-ac27-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 30: Yoshikage Kira attire les chats",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-30-vostfr/"
+    },
+    {
+        "episode_id": "07178d20-ea9d-11eb-8794-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 31: Jeudi 15 juillet, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-31-vostfr/"
+    },
+    {
+        "episode_id": "071a3157-ea9d-11eb-a62f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 32: Jeudi 15 juillet, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-32-vostfr/"
+    },
+    {
+        "episode_id": "071cf0c2-ea9d-11eb-a367-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 33: Jeudi 15 juillet, Partie 3",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-33-vostfr/"
+    },
+    {
+        "episode_id": "071ffe19-ea9d-11eb-b434-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 34: Jeudi 15 juillet, Partie 4",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-34-vostfr/"
+    },
+    {
+        "episode_id": "0722e47c-ea9d-11eb-a5f3-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 35: Another One Bites the Dust, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-35-vostfr/"
+    },
+    {
+        "episode_id": "0725b8f4-ea9d-11eb-a6bc-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 36: Another One Bites the Dust, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-36-vostfr/"
+    },
+    {
+        "episode_id": "07285078-ea9d-11eb-b948-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 37: Crazy Diamond is Unbreakable, Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-37-vostfr/"
+    },
+    {
+        "episode_id": "072b258d-ea9d-11eb-bd6e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 38: Crazy Diamond is Unbreakable, Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-38-vostfr/"
+    },
+    {
+        "episode_id": "072dba66-ea9d-11eb-8974-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 39: Adieu Morio, la jeunesse au cœur d’or",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s3-39-vostfr/"
+    },
+    {
+        "episode_id": "07344d6c-ea9d-11eb-a029-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 1: Gold Experience",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-1-vostfr/"
+    },
+    {
+        "episode_id": "0736a8e5-ea9d-11eb-a770-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 2: Voici venir Buccellati",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-2-vostfr/"
+    },
+    {
+        "episode_id": "0738c1b8-ea9d-11eb-b4cc-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 3: Le gangster en cage",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-3-vostfr/"
+    },
+    {
+        "episode_id": "073b0727-ea9d-11eb-82a0-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 4: Initiation",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-4-vostfr/"
+    },
+    {
+        "episode_id": "073d5520-ea9d-11eb-9b26-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 5: Trouvez la fortune de Polpo!",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-5-vostfr/"
+    },
+    {
+        "episode_id": "073faad5-ea9d-11eb-9a2c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 6: Moody Jazz contre-attaque",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-6-vostfr/"
+    },
+    {
+        "episode_id": "0741ebc9-ea9d-11eb-a526-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 7: Les Six Bullets entrent en scène (1re partie)",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-7-vostfr/"
+    },
+    {
+        "episode_id": "07443228-ea9d-11eb-86fd-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 8: Les Six Bullets entrent en scène (2e partie)",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-8-vostfr/"
+    },
+    {
+        "episode_id": "0746837f-ea9d-11eb-b28f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 9: Le premier ordre du boss",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-9-vostfr/"
+    },
+    {
+        "episode_id": "07489ff6-ea9d-11eb-ab9b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 10: L’équipe des assassins",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-10-vostfr/"
+    },
+    {
+        "episode_id": "074af6f0-ea9d-11eb-9281-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 11: Lil’bomb de Narancia",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-11-vostfr/"
+    },
+    {
+        "episode_id": "074d221a-ea9d-11eb-9e11-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 12: Le deuxième ordre du boss",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-12-vostfr/"
+    },
+    {
+        "episode_id": "074f1e0d-ea9d-11eb-853f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 13: Mirror man et Purple smoke",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-13-vostfr/"
+    },
+    {
+        "episode_id": "07518f30-ea9d-11eb-81aa-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 13.5: Épisode spécial: Les débuts du vent doré",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-13-5-vostfr/"
+    },
+    {
+        "episode_id": "0753b229-ea9d-11eb-904c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 14: L’express pour Florence",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-14-vostfr/"
+    },
+    {
+        "episode_id": "0755ae18-ea9d-11eb-bdf9-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 15: Les morts reconnaissants – Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-15-vostfr/"
+    },
+    {
+        "episode_id": "0757d117-ea9d-11eb-86fb-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 16: Les morts reconnaissants – Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-16-vostfr/"
+    },
+    {
+        "episode_id": "075a8fe0-ea9d-11eb-b67d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 17: Babyhead",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-17-vostfr/"
+    },
+    {
+        "episode_id": "075d4f01-ea9d-11eb-9b88-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 18: Direction Venise!",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-18-vostfr/"
+    },
+    {
+        "episode_id": "07600e57-ea9d-11eb-8df5-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 19: White Ice",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-19-vostfr/"
+    },
+    {
+        "episode_id": "0762cd73-ea9d-11eb-82db-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 20: Les ultimes instructions du Boss",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-20-vostfr/"
+    },
+    {
+        "episode_id": "07655fd8-ea9d-11eb-ab07-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 21: Le mystère de King Crimson",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-21-vostfr/"
+    },
+    {
+        "episode_id": "07681f09-ea9d-11eb-8396-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 21.5: Détermination",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-21-5-vostfr/"
+    },
+    {
+        "episode_id": "076ae60a-ea9d-11eb-8664-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 22: Le “G” de Guts",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-22-vostfr/"
+    },
+    {
+        "episode_id": "076da599-ea9d-11eb-8ef4-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 23: Crush et Talking Mouth",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-23-vostfr/"
+    },
+    {
+        "episode_id": "077064b9-ea9d-11eb-82d5-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 24: Notorious B.I.G. / Chasseur notoire",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-24-vostfr/"
+    },
+    {
+        "episode_id": "07732405-ea9d-11eb-8ceb-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 25: Fille épicée",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-25-vostfr/"
+    },
+    {
+        "episode_id": "0775e351-ea9d-11eb-844f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 26: Une petite histoire du passé~ Mon nom est Doppio~",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-26-vostfr/"
+    },
+    {
+        "episode_id": "0778a297-ea9d-11eb-afc2-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 27: King Crimson contre Metalica",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-27-vostfr/"
+    },
+    {
+        "episode_id": "077b620b-ea9d-11eb-a7b6-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 28: Le ciel est sur le point de s’effondrer",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-28-vostfr/"
+    },
+    {
+        "episode_id": "077e2140-ea9d-11eb-868f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 28.5: Le destin",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-28-5-vostfr/"
+    },
+    {
+        "episode_id": "07810839-ea9d-11eb-915e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 29: Destination: le Colisée!",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-29-vostfr/"
+    },
+    {
+        "episode_id": "07839fd8-ea9d-11eb-913e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 30: Green Day et Oasis – Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-30-vostfr/"
+    },
+    {
+        "episode_id": "07865f01-ea9d-11eb-99b3-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 31: Green Day et Oasis – Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-31-vostfr/"
+    },
+    {
+        "episode_id": "0788f804-ea9d-11eb-95b5-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 32: Green Day et Oasis – Partie 3",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-32-vostfr/"
+    },
+    {
+        "episode_id": "078b1b00-ea9d-11eb-83bb-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 33: Son nom est Diavolo",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-33-vostfr/"
+    },
+    {
+        "episode_id": "078d3e03-ea9d-11eb-ba5d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 34: Requiem résonne en silence – Partie 1",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-34-vostfr/"
+    },
+    {
+        "episode_id": "078f39ee-ea9d-11eb-9c58-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 35: Requiem résonne en silence – Partie 2",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-35-vostfr/"
+    },
+    {
+        "episode_id": "07915cea-ea9d-11eb-964c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 36: Réapparition de Diavolo",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-36-vostfr/"
+    },
+    {
+        "episode_id": "079358e1-ea9d-11eb-beb0-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 37: Le roi parmi les rois",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-37-vostfr/"
+    },
+    {
+        "episode_id": "07961812-ea9d-11eb-8027-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 38: Gold Experience Requiem",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-38-vostfr/"
+    },
+    {
+        "episode_id": "0798d758-ea9d-11eb-b292-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Épisode 39: Les esclaves endormis",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-s4-39-vostfr/"
+    },
+    {
+        "episode_id": "07a20f60-ea9d-11eb-bdea-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• OAV 1:",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-oav-1-vostfr/"
+    },
+    {
+        "episode_id": "07a54a96-ea9d-11eb-84c4-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• OAV 2:",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-oav-2-vostfr/"
+    },
+    {
+        "episode_id": "07aaaf05-ea9d-11eb-b29a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Film 1: Première Partie : Phantom Blood",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-film-1/"
+    },
+    {
+        "episode_id": "07ad480f-ea9d-11eb-af13-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Film 2: Deuxième Partie : Battle Tendency (1re moitié)",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-film-2/"
+    },
+    {
+        "episode_id": "07afd826-ea9d-11eb-abb0-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-vostfr/",
+        "episode_name": "• Film 3: Troisième Partie : Battle Tendency (2e moitié)",
+        "episode_url": "https://gum-gum-streaming.com/jojos-bizarre-adventure-film-3/"
+    }
+]

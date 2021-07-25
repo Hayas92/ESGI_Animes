@@ -29,7 +29,7 @@ def aggregate_files():
     except:
         pass
 
-    with open(os.path.join(PATH_MERGED_ANIMES_DATA, DATE_COLLECT + '_animes_data_aggregated' + '.json'), 'w',encoding='utf-8') as file_to_dump:
+    with open(os.path.join(PATH_MERGED_ANIMES_DATA, COLLECT_DATE + '_animes_data_aggregated' + '.json'), 'w',encoding='utf-8') as file_to_dump:
         json.dump(anime_data_files, file_to_dump, indent=2, ensure_ascii=False)
 
     # Merge anime episodes data files
@@ -43,7 +43,7 @@ def aggregate_files():
     # Convert nested list to flat list
     flatList = [item for elem in anime_episodes_data_files for item in elem]
 
-    with open(os.path.join(PATH_MERGED_ANIMES_EPISODES_DATA, DATE_COLLECT + '_animes_episodes_data_aggregated' + '.json'), 'w',
+    with open(os.path.join(PATH_MERGED_ANIMES_EPISODES_DATA, COLLECT_DATE + '_animes_episodes_data_aggregated' + '.json'), 'w',
               encoding='utf-8') as file_to_dump:
         json.dump(flatList, file_to_dump, indent=2, ensure_ascii=False)
 

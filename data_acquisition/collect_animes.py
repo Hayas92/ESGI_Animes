@@ -57,7 +57,7 @@ def main():
 
                     with open(os.path.join(PATH_ANIMES_DATA, COLLECT_DATE + '_anime_data_' + str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '.json'), 'w', encoding='utf-8') as file_to_dump:
                         json.dump(anime_data, file_to_dump, indent=2, ensure_ascii=False)
-                    with open(os.path.join(PATH_ANIMES_EPISODES_DATA,str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '_anime_data.json'), 'w',encoding='utf-8') as file_to_dump:
+                    with open(os.path.join(PATH_ANIMES_EPISODES_DATA,str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '_anime_episodes_data.json'), 'w',encoding='utf-8') as file_to_dump:
                         json.dump(episodes_dict, file_to_dump, indent=4, ensure_ascii=False)
                     # The url is set as 'yes'.
                     anime_url['collected'] = 'yes'
