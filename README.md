@@ -8,6 +8,7 @@
 
 
 Dans le cadre de la réalisation d’un projet en Python, nous avons réalisé une application qui permet de récupérer les données du site Gum-Gum-Streaming et de les analyser. Gum-Gum Streaming (https://gum-gum-streaming.com) est un site contenant des épisodes d’animés. Les données que nous allons collecter sont : les fiches descriptives des animés et la liste des épisodes pour chaque animé. 
+
 Une fois les données collectées nous allons les mettre sur un site développé en Django.
 
 
