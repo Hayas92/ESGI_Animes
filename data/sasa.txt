@@ -1,5 +1,0 @@
-heroku config:set SECRET_KEY="z?7\x0c|\x0b+9'DRr?hyN\nG+4\nOO|"
-
-
-
-pip3 install --no-cache-dir  --force-reinstall -Iv grpcio==1.36.1

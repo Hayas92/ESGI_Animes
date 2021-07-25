@@ -1,8 +1,0 @@
-echo web: website.wsgi >Procfile
-
-
-heroku builds:cancel -a animesesgi
-
-grpcio==1.32.0
-
-heroku config:set DISABLE_COLLECTSTATIC=0
