@@ -9,7 +9,7 @@ import time
 PATH_ANIME_LIST_AGGREGATED = os.path.join(os.curdir, 'anime_list_aggregated')
 PATH_ANIME_URLS_TO_COLLECT = os.path.join(os.curdir, 'anime_urls_to_collect')
 
-COLLECT_DATE = '2021_07_16'
+COLLECT_DATE = '2021_07_21'
 
 
 def filter_urls(urls_dicts):

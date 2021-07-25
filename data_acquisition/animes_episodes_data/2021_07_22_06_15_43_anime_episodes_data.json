@@ -1,0 +1,926 @@
+[
+    {
+        "episode_id": "7942a5ff-eaa3-11eb-a9a6-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 1:Le rêve de Goro, le rêve de papa",
+        "episode_url": "https://gum-gum-streaming.com/major-1-vostfr/"
+    },
+    {
+        "episode_id": "79469e93-eaa3-11eb-a5c7-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 2:Leur amitié",
+        "episode_url": "https://gum-gum-streaming.com/major-2-vostfr/"
+    },
+    {
+        "episode_id": "794a6f62-eaa3-11eb-a856-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 3:Papa, je te déteste !",
+        "episode_url": "https://gum-gum-streaming.com/major-3-vostfr/"
+    },
+    {
+        "episode_id": "794e1854-eaa3-11eb-b243-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 4:Un anniversaire avec un jour de retard",
+        "episode_url": "https://gum-gum-streaming.com/major-4-vostfr/"
+    },
+    {
+        "episode_id": "7951e921-eaa3-11eb-ab81-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 5:Celui qui venait de la Major",
+        "episode_url": "https://gum-gum-streaming.com/major-5-vostfr/"
+    },
+    {
+        "episode_id": "795592cb-eaa3-11eb-ab1a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 6:Adieu…",
+        "episode_url": "https://gum-gum-streaming.com/major-6-vostfr/"
+    },
+    {
+        "episode_id": "7958cfe2-eaa3-11eb-b215-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 7:Goro Honda, 9 ans !",
+        "episode_url": "https://gum-gum-streaming.com/major-7-vostfr/"
+    },
+    {
+        "episode_id": "795c046f-eaa3-11eb-bd62-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 8:Equipe complète !",
+        "episode_url": "https://gum-gum-streaming.com/major-8-vostfr/"
+    },
+    {
+        "episode_id": "795f382c-eaa3-11eb-94e8-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 9:Seul sur le monticule",
+        "episode_url": "https://gum-gum-streaming.com/major-9-vostfr/"
+    },
+    {
+        "episode_id": "796309b2-eaa3-11eb-8a2d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 10:Match intense sous la pluie",
+        "episode_url": "https://gum-gum-streaming.com/major-10-vostfr/"
+    },
+    {
+        "episode_id": "7966a323-eaa3-11eb-9a1f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 11:L’équipe dans laquelle papa a joué",
+        "episode_url": "https://gum-gum-streaming.com/major-11-vostfr/"
+    },
+    {
+        "episode_id": "796a73f2-eaa3-11eb-a1aa-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 12:Une invitation de Gibson",
+        "episode_url": "https://gum-gum-streaming.com/major-12-vostfr/"
+    },
+    {
+        "episode_id": "796e4389-eaa3-11eb-8393-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 13:L’été, le baseball, le camp d’entraînement !",
+        "episode_url": "https://gum-gum-streaming.com/major-13-vostfr/"
+    },
+    {
+        "episode_id": "7971ed25-eaa3-11eb-b0cf-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 14:Match d’entraînement imprudent",
+        "episode_url": "https://gum-gum-streaming.com/major-14-vostfr/"
+    },
+    {
+        "episode_id": "797a799f-eaa3-11eb-9484-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 15:Les sentiments du Coach",
+        "episode_url": "https://gum-gum-streaming.com/major-15-vostfr/"
+    },
+    {
+        "episode_id": "797dad9b-eaa3-11eb-8810-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 16:J’arrête !",
+        "episode_url": "https://gum-gum-streaming.com/major-16-vostfr/"
+    },
+    {
+        "episode_id": "7980e2da-eaa3-11eb-8db4-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 17:Le tournoi commence !",
+        "episode_url": "https://gum-gum-streaming.com/major-17-vostfr/"
+    },
+    {
+        "episode_id": "79839408-eaa3-11eb-912b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 18:Vers une première victoire !",
+        "episode_url": "https://gum-gum-streaming.com/major-18-vostfr/"
+    },
+    {
+        "episode_id": "7986ab69-eaa3-11eb-9e32-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 19:Le bonheur de maman",
+        "episode_url": "https://gum-gum-streaming.com/major-19-vostfr/"
+    },
+    {
+        "episode_id": "798983d9-eaa3-11eb-a023-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 20:Goro absent du monticule !?",
+        "episode_url": "https://gum-gum-streaming.com/major-20-vostfr/"
+    },
+    {
+        "episode_id": "798c8bef-eaa3-11eb-873d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 21:C’est ça le baseball !",
+        "episode_url": "https://gum-gum-streaming.com/major-21-vostfr/"
+    },
+    {
+        "episode_id": "798f6209-eaa3-11eb-b45d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 22:La nuit avant le match",
+        "episode_url": "https://gum-gum-streaming.com/major-22-vostfr/"
+    },
+    {
+        "episode_id": "79925ff4-eaa3-11eb-b74a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 23:Aucune intention de perdre !",
+        "episode_url": "https://gum-gum-streaming.com/major-23-vostfr/"
+    },
+    {
+        "episode_id": "79955b1c-eaa3-11eb-ac57-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 24:Se ressaisir ! Et les dépasser !",
+        "episode_url": "https://gum-gum-streaming.com/major-24-vostfr/"
+    },
+    {
+        "episode_id": "799869ef-eaa3-11eb-b4bc-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 25:Tous ensemble",
+        "episode_url": "https://gum-gum-streaming.com/major-25-vostfr/"
+    },
+    {
+        "episode_id": "799b5049-eaa3-11eb-8cd6-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 26:Je ne dirai pas au revoir",
+        "episode_url": "https://gum-gum-streaming.com/major-26-vostfr/"
+    },
+    {
+        "episode_id": "79a12bac-eaa3-11eb-9a10-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 27:Il revient…",
+        "episode_url": "https://gum-gum-streaming.com/major-27-vostfr/"
+    },
+    {
+        "episode_id": "79a45ae5-eaa3-11eb-ad40-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 28:Il y a un rêve !",
+        "episode_url": "https://gum-gum-streaming.com/major-28-vostfr/"
+    },
+    {
+        "episode_id": "79a7542e-eaa3-11eb-8cfc-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 29:Le club de baseball commence !",
+        "episode_url": "https://gum-gum-streaming.com/major-29-vostfr/"
+    },
+    {
+        "episode_id": "79aa66bc-eaa3-11eb-a9af-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 30:Des rivaux réunis.",
+        "episode_url": "https://gum-gum-streaming.com/major-30-vostfr/"
+    },
+    {
+        "episode_id": "79ad750c-eaa3-11eb-93ed-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 31:Le passé de Toshiya.",
+        "episode_url": "https://gum-gum-streaming.com/major-31-vostfr/"
+    },
+    {
+        "episode_id": "79b0512e-eaa3-11eb-8151-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 32:La conspiration des recruteurs.",
+        "episode_url": "https://gum-gum-streaming.com/major-32-vostfr/"
+    },
+    {
+        "episode_id": "79b38a54-eaa3-11eb-ab22-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 33:Des puissants rivaux ! Tomorouna.",
+        "episode_url": "https://gum-gum-streaming.com/major-33-vostfr/"
+    },
+    {
+        "episode_id": "79b6872d-eaa3-11eb-a4c5-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 34:Pour quelle raison…",
+        "episode_url": "https://gum-gum-streaming.com/major-34-vostfr/"
+    },
+    {
+        "episode_id": "79b99577-eaa3-11eb-a5be-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 35:La fin de la bataille.",
+        "episode_url": "https://gum-gum-streaming.com/major-35-vostfr/"
+    },
+    {
+        "episode_id": "79bcc765-eaa3-11eb-8739-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 36:Une nouvelle résolution.",
+        "episode_url": "https://gum-gum-streaming.com/major-36-vostfr/"
+    },
+    {
+        "episode_id": "79bfe593-eaa3-11eb-9d52-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 37:L’étroite porte pour Kaido.",
+        "episode_url": "https://gum-gum-streaming.com/major-37-vostfr/"
+    },
+    {
+        "episode_id": "79c31ecd-eaa3-11eb-9cf0-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 38:Le billet pour Kaido.",
+        "episode_url": "https://gum-gum-streaming.com/major-38-vostfr/"
+    },
+    {
+        "episode_id": "79c66eac-eaa3-11eb-9d20-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 39:Au revoir…",
+        "episode_url": "https://gum-gum-streaming.com/major-39-vostfr/"
+    },
+    {
+        "episode_id": "79c94258-eaa3-11eb-bc42-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 40:L’île des rêves.",
+        "episode_url": "https://gum-gum-streaming.com/major-40-vostfr/"
+    },
+    {
+        "episode_id": "79cbfc7c-eaa3-11eb-b538-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 41:Les besoins d’un lanceur.",
+        "episode_url": "https://gum-gum-streaming.com/major-41-vostfr/"
+    },
+    {
+        "episode_id": "79ced0ba-eaa3-11eb-b9a2-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 42:Un authentique fils du Baseball.",
+        "episode_url": "https://gum-gum-streaming.com/major-42-vostfr/"
+    },
+    {
+        "episode_id": "79d1aaf5-eaa3-11eb-bb75-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 43:Des vacances d’été éphémères.",
+        "episode_url": "https://gum-gum-streaming.com/major-43-vostfr/"
+    },
+    {
+        "episode_id": "79d4df78-eaa3-11eb-886e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 44:Un Baseball désagréable.",
+        "episode_url": "https://gum-gum-streaming.com/major-44-vostfr/"
+    },
+    {
+        "episode_id": "79d7ed9e-eaa3-11eb-bfc0-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 45:Les niveaux des élèves boursier.",
+        "episode_url": "https://gum-gum-streaming.com/major-45-vostfr/"
+    },
+    {
+        "episode_id": "79db96bd-eaa3-11eb-a3ba-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 46:Goro VS le manuel !",
+        "episode_url": "https://gum-gum-streaming.com/major-46-vostfr/"
+    },
+    {
+        "episode_id": "79df19f2-eaa3-11eb-a0ce-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 47:Toi et moi ensemble.",
+        "episode_url": "https://gum-gum-streaming.com/major-47-vostfr/"
+    },
+    {
+        "episode_id": "79e61e85-eaa3-11eb-931a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 48:Le secret de Kaido.",
+        "episode_url": "https://gum-gum-streaming.com/major-48-vostfr/"
+    },
+    {
+        "episode_id": "79e9a126-eaa3-11eb-b561-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 49:La stratégie d’Egashira.",
+        "episode_url": "https://gum-gum-streaming.com/major-49-vostfr/"
+    },
+    {
+        "episode_id": "79ecfd6c-eaa3-11eb-ab10-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 50:Défier l’équipe principale.",
+        "episode_url": "https://gum-gum-streaming.com/major-50-vostfr/"
+    },
+    {
+        "episode_id": "79f05904-eaa3-11eb-a7b6-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 51:Avec mes propres jambes.",
+        "episode_url": "https://gum-gum-streaming.com/major-51-vostfr/"
+    },
+    {
+        "episode_id": "79f3865f-eaa3-11eb-b772-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 52:Adieu !",
+        "episode_url": "https://gum-gum-streaming.com/major-52-vostfr/"
+    },
+    {
+        "episode_id": "79fb1fca-eaa3-11eb-bf2d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 53:Repartir à zéro.",
+        "episode_url": "https://gum-gum-streaming.com/major-53-vostfr/"
+    },
+    {
+        "episode_id": "79fe4c3b-eaa3-11eb-b515-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 54:Nouveaux amis.",
+        "episode_url": "https://gum-gum-streaming.com/major-54-vostfr/"
+    },
+    {
+        "episode_id": "7a025bad-eaa3-11eb-8de3-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 55:De père en fils.",
+        "episode_url": "https://gum-gum-streaming.com/major-55-vostfr/"
+    },
+    {
+        "episode_id": "7a06599f-eaa3-11eb-b220-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 56:Un pari impossible.",
+        "episode_url": "https://gum-gum-streaming.com/major-56-vostfr/"
+    },
+    {
+        "episode_id": "7a0a5199-eaa3-11eb-ad55-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 57:Notre terrain.",
+        "episode_url": "https://gum-gum-streaming.com/major-57-vostfr/"
+    },
+    {
+        "episode_id": "7a0dc8ac-eaa3-11eb-a3a8-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 58:Le choix de chacun.",
+        "episode_url": "https://gum-gum-streaming.com/major-58-vostfr/"
+    },
+    {
+        "episode_id": "7a13e382-eaa3-11eb-ab08-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 59:Un visiteur inattendu.",
+        "episode_url": "https://gum-gum-streaming.com/major-59-vostfr/"
+    },
+    {
+        "episode_id": "7a172b9d-eaa3-11eb-b99e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 60:Le plan d’Egashira.",
+        "episode_url": "https://gum-gum-streaming.com/major-60-vostfr/"
+    },
+    {
+        "episode_id": "7a1a87a7-eaa3-11eb-91ba-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 61:L’ace n’est plus là.",
+        "episode_url": "https://gum-gum-streaming.com/major-61-vostfr/"
+    },
+    {
+        "episode_id": "7a1e7061-eaa3-11eb-a61f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 62:Un esprit combatif contagieux.",
+        "episode_url": "https://gum-gum-streaming.com/major-62-vostfr/"
+    },
+    {
+        "episode_id": "7a227cd4-eaa3-11eb-92c9-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 63:Le numéro 1 blessé.",
+        "episode_url": "https://gum-gum-streaming.com/major-63-vostfr/"
+    },
+    {
+        "episode_id": "7a26c223-eaa3-11eb-837c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 64:Le début du match contre Mifune.",
+        "episode_url": "https://gum-gum-streaming.com/major-64-vostfr/"
+    },
+    {
+        "episode_id": "7a2ca874-eaa3-11eb-8283-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 65:Furie absolue ! le match contre Mifune.",
+        "episode_url": "https://gum-gum-streaming.com/major-65-vostfr/"
+    },
+    {
+        "episode_id": "7a30ca17-eaa3-11eb-aac1-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 66:Volonté contre volonté.",
+        "episode_url": "https://gum-gum-streaming.com/major-66-vostfr/"
+    },
+    {
+        "episode_id": "7a34ab0f-eaa3-11eb-8dd5-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 67:Ca balance à fond.",
+        "episode_url": "https://gum-gum-streaming.com/major-67-vostfr/"
+    },
+    {
+        "episode_id": "7a38c9e1-eaa3-11eb-8188-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 68:Retrouvailles surprises !",
+        "episode_url": "https://gum-gum-streaming.com/major-68-vostfr/"
+    },
+    {
+        "episode_id": "7a3cad87-eaa3-11eb-b493-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 69:Un match de lanceurs !",
+        "episode_url": "https://gum-gum-streaming.com/major-69-vostfr/"
+    },
+    {
+        "episode_id": "7a40a616-eaa3-11eb-8f4b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 70:Ultime sursaut !",
+        "episode_url": "https://gum-gum-streaming.com/major-70-vostfr/"
+    },
+    {
+        "episode_id": "7a4476dc-eaa3-11eb-af74-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 71:Défier les rois !",
+        "episode_url": "https://gum-gum-streaming.com/major-71-vostfr/"
+    },
+    {
+        "episode_id": "7a4847a4-eaa3-11eb-8fa6-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 72:Aucune faille ! Le baseball du manuel.",
+        "episode_url": "https://gum-gum-streaming.com/major-72-vostfr/"
+    },
+    {
+        "episode_id": "7a4c3f7e-eaa3-11eb-9270-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 73:Le plan secret de Toshiya.",
+        "episode_url": "https://gum-gum-streaming.com/major-73-vostfr/"
+    },
+    {
+        "episode_id": "7a502141-eaa3-11eb-ba66-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 74:Bataille Totale.",
+        "episode_url": "https://gum-gum-streaming.com/major-74-vostfr/"
+    },
+    {
+        "episode_id": "7a54191f-eaa3-11eb-91e7-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 75:Se battre jusqu’au bout !",
+        "episode_url": "https://gum-gum-streaming.com/major-75-vostfr/"
+    },
+    {
+        "episode_id": "7a57ea96-eaa3-11eb-825d-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 76:La fin des stratagèmes.",
+        "episode_url": "https://gum-gum-streaming.com/major-76-vostfr/"
+    },
+    {
+        "episode_id": "7a5be1e9-eaa3-11eb-a614-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 77:Le n°1 couvert de blessures.",
+        "episode_url": "https://gum-gum-streaming.com/major-77-vostfr/"
+    },
+    {
+        "episode_id": "7a5f651a-eaa3-11eb-a242-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 78:La scène des rêves.",
+        "episode_url": "https://gum-gum-streaming.com/major-78-vostfr/"
+    },
+    {
+        "episode_id": "7a6706aa-eaa3-11eb-8070-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 79:Le pays d’origine du baseball.",
+        "episode_url": "https://gum-gum-streaming.com/major-79-vostfr/"
+    },
+    {
+        "episode_id": "7a6a6012-eaa3-11eb-a789-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 80:Le test de sélection.",
+        "episode_url": "https://gum-gum-streaming.com/major-80-vostfr/"
+    },
+    {
+        "episode_id": "7a6de21e-eaa3-11eb-89d2-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 81:Je vais le faire !",
+        "episode_url": "https://gum-gum-streaming.com/major-81-vostfr/"
+    },
+    {
+        "episode_id": "7a713d91-eaa3-11eb-90b9-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 82:C’est donc ça la Major ?",
+        "episode_url": "https://gum-gum-streaming.com/major-82-vostfr/"
+    },
+    {
+        "episode_id": "7a744b09-eaa3-11eb-a1c2-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 83:Les échelons vers le monde !",
+        "episode_url": "https://gum-gum-streaming.com/major-83-vostfr/"
+    },
+    {
+        "episode_id": "7a776dac-eaa3-11eb-a663-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 84:Impardonnable !!",
+        "episode_url": "https://gum-gum-streaming.com/major-84-vostfr/"
+    },
+    {
+        "episode_id": "7a7a4851-eaa3-11eb-8183-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 85:Le plein de courage.",
+        "episode_url": "https://gum-gum-streaming.com/major-85-vostfr/"
+    },
+    {
+        "episode_id": "7a7d142e-eaa3-11eb-b073-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 86:Début !",
+        "episode_url": "https://gum-gum-streaming.com/major-86-vostfr/"
+    },
+    {
+        "episode_id": "7a7fcfca-eaa3-11eb-9250-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 87:Challenger !",
+        "episode_url": "https://gum-gum-streaming.com/major-87-vostfr/"
+    },
+    {
+        "episode_id": "7a82b616-eaa3-11eb-aef2-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 88:Ce n’est pas possible !",
+        "episode_url": "https://gum-gum-streaming.com/major-88-vostfr/"
+    },
+    {
+        "episode_id": "7a8599b2-eaa3-11eb-8f3c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 89:On essaye ?!",
+        "episode_url": "https://gum-gum-streaming.com/major-89-vostfr/"
+    },
+    {
+        "episode_id": "7a885e10-eaa3-11eb-a126-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 90:Menteur !",
+        "episode_url": "https://gum-gum-streaming.com/major-90-vostfr/"
+    },
+    {
+        "episode_id": "7a8a9cee-eaa3-11eb-96ca-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 91:Un pari stupide.",
+        "episode_url": "https://gum-gum-streaming.com/major-91-vostfr/"
+    },
+    {
+        "episode_id": "7a8cf367-eaa3-11eb-8050-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 92:Le passé de Kean.",
+        "episode_url": "https://gum-gum-streaming.com/major-92-vostfr/"
+    },
+    {
+        "episode_id": "7a8fc15f-eaa3-11eb-8055-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 93:Héros.",
+        "episode_url": "https://gum-gum-streaming.com/major-93-vostfr/"
+    },
+    {
+        "episode_id": "7a92a702-eaa3-11eb-ab3b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 94:Ca m’énerve !!",
+        "episode_url": "https://gum-gum-streaming.com/major-94-vostfr/"
+    },
+    {
+        "episode_id": "7a958d7c-eaa3-11eb-ba09-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 95:Ce que tu dois viser.",
+        "episode_url": "https://gum-gum-streaming.com/major-95-vostfr/"
+    },
+    {
+        "episode_id": "7a984f66-eaa3-11eb-a72f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 96:Le rêve d’Alice, le rêve de tout le monde !",
+        "episode_url": "https://gum-gum-streaming.com/major-96-vostfr/"
+    },
+    {
+        "episode_id": "7a9b1ca1-eaa3-11eb-9043-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 97:Différence",
+        "episode_url": "https://gum-gum-streaming.com/major-97-vostfr/"
+    },
+    {
+        "episode_id": "7a9e02e0-eaa3-11eb-bc17-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 98:Casse-toi !",
+        "episode_url": "https://gum-gum-streaming.com/major-98-vostfr/"
+    },
+    {
+        "episode_id": "7aa11028-eaa3-11eb-ae45-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 99:Une ouverture problématique.",
+        "episode_url": "https://gum-gum-streaming.com/major-99-vostfr/"
+    },
+    {
+        "episode_id": "7aa3a860-eaa3-11eb-b280-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 100:Le lancer décisif !",
+        "episode_url": "https://gum-gum-streaming.com/major-100-vostfr/"
+    },
+    {
+        "episode_id": "7aa68f7a-eaa3-11eb-99b9-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 101:L’autre finale.",
+        "episode_url": "https://gum-gum-streaming.com/major-101-vostfr/"
+    },
+    {
+        "episode_id": "7aa998ad-eaa3-11eb-9217-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 102:Un homme bon.",
+        "episode_url": "https://gum-gum-streaming.com/major-102-vostfr/"
+    },
+    {
+        "episode_id": "7aabe296-eaa3-11eb-9faf-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 103:Un vrai rival.",
+        "episode_url": "https://gum-gum-streaming.com/major-103-vostfr/"
+    },
+    {
+        "episode_id": "7aae2ca1-eaa3-11eb-835c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 104:La promesse.",
+        "episode_url": "https://gum-gum-streaming.com/major-104-vostfr/"
+    },
+    {
+        "episode_id": "7ab2c4a4-eaa3-11eb-8003-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 105:Une fois de plus (ou Encore)",
+        "episode_url": "https://gum-gum-streaming.com/major-105-vostfr/"
+    },
+    {
+        "episode_id": "7ab524ef-eaa3-11eb-b4e6-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 106:La différence de température entre nous",
+        "episode_url": "https://gum-gum-streaming.com/major-106-vostfr/"
+    },
+    {
+        "episode_id": "7ab778aa-eaa3-11eb-aae3-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 107:L’équipe nationale se rassemble !",
+        "episode_url": "https://gum-gum-streaming.com/major-107-vostfr/"
+    },
+    {
+        "episode_id": "7ab9a8a5-eaa3-11eb-95c6-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 108:Essais et erreurs",
+        "episode_url": "https://gum-gum-streaming.com/major-108-vostfr/"
+    },
+    {
+        "episode_id": "7abbea57-eaa3-11eb-9fdd-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 109:Jeune Japon",
+        "episode_url": "https://gum-gum-streaming.com/major-109-vostfr/"
+    },
+    {
+        "episode_id": "7abe1112-eaa3-11eb-8199-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 110:La directe sans arrières-pensée",
+        "episode_url": "https://gum-gum-streaming.com/major-110-vostfr/"
+    },
+    {
+        "episode_id": "7ac0341d-eaa3-11eb-89f0-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 111:Une notification inattendue",
+        "episode_url": "https://gum-gum-streaming.com/major-111-vostfr/"
+    },
+    {
+        "episode_id": "7ac27e22-eaa3-11eb-abc0-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 112:Les attentes de chacun",
+        "episode_url": "https://gum-gum-streaming.com/major-112-vostfr/"
+    },
+    {
+        "episode_id": "7ac4bceb-eaa3-11eb-b240-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 113:La vraie valeur de la pression",
+        "episode_url": "https://gum-gum-streaming.com/major-113-vostfr/"
+    },
+    {
+        "episode_id": "7ac6e8e1-eaa3-11eb-96d3-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 114:Des griffes aiguisées",
+        "episode_url": "https://gum-gum-streaming.com/major-114-vostfr/"
+    },
+    {
+        "episode_id": "7ac9341d-eaa3-11eb-9b9a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 115:Tu n’es pas un homme !",
+        "episode_url": "https://gum-gum-streaming.com/major-115-vostfr/"
+    },
+    {
+        "episode_id": "7acb64be-eaa3-11eb-9992-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 116:Malédiction",
+        "episode_url": "https://gum-gum-streaming.com/major-116-vostfr/"
+    },
+    {
+        "episode_id": "7acd87ac-eaa3-11eb-a19e-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 117:Le baseball japonais",
+        "episode_url": "https://gum-gum-streaming.com/major-117-vostfr/"
+    },
+    {
+        "episode_id": "7acfd1f8-eaa3-11eb-833f-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 118:Je vais bien !",
+        "episode_url": "https://gum-gum-streaming.com/major-118-vostfr/"
+    },
+    {
+        "episode_id": "7ad201ad-eaa3-11eb-854b-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 119:Baseball agressif",
+        "episode_url": "https://gum-gum-streaming.com/major-119-vostfr/"
+    },
+    {
+        "episode_id": "7ad463e7-eaa3-11eb-bdc5-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 120:Les choses pour lesquelles on se prépare",
+        "episode_url": "https://gum-gum-streaming.com/major-120-vostfr/"
+    },
+    {
+        "episode_id": "7ad6a485-eaa3-11eb-991c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 121:La fierté des États-Unis",
+        "episode_url": "https://gum-gum-streaming.com/major-121-vostfr/"
+    },
+    {
+        "episode_id": "7ad8cba8-eaa3-11eb-80b4-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 122:La terre promise",
+        "episode_url": "https://gum-gum-streaming.com/major-122-vostfr/"
+    },
+    {
+        "episode_id": "7adb5030-eaa3-11eb-8ace-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 123:Les bases du lancer",
+        "episode_url": "https://gum-gum-streaming.com/major-123-vostfr/"
+    },
+    {
+        "episode_id": "7ade0a3c-eaa3-11eb-aded-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 124:La fierté au cœur",
+        "episode_url": "https://gum-gum-streaming.com/major-124-vostfr/"
+    },
+    {
+        "episode_id": "7ae0c977-eaa3-11eb-8a16-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 125:For Oneself’s Sake",
+        "episode_url": "https://gum-gum-streaming.com/major-125-vostfr/"
+    },
+    {
+        "episode_id": "7ae3e0ad-eaa3-11eb-b11c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 126:Des rêves sans fin",
+        "episode_url": "https://gum-gum-streaming.com/major-126-vostfr/"
+    },
+    {
+        "episode_id": "7ae6858c-eaa3-11eb-8bf8-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 127:Le dos des pères",
+        "episode_url": "https://gum-gum-streaming.com/major-127-vostfr/"
+    },
+    {
+        "episode_id": "7ae97649-eaa3-11eb-9a13-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 128:Lutter jusqu’au bout",
+        "episode_url": "https://gum-gum-streaming.com/major-128-vostfr/"
+    },
+    {
+        "episode_id": "7aec1c68-eaa3-11eb-b9ac-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 129:Les routes de demain",
+        "episode_url": "https://gum-gum-streaming.com/major-129-vostfr/"
+    },
+    {
+        "episode_id": "7af2e3e6-eaa3-11eb-9a0a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 130:Super Rookie",
+        "episode_url": "https://gum-gum-streaming.com/major-130-vostfr/"
+    },
+    {
+        "episode_id": "7af6c6a7-eaa3-11eb-b5a7-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 131:Un début de premier plan!",
+        "episode_url": "https://gum-gum-streaming.com/major-131-vostfr/"
+    },
+    {
+        "episode_id": "7afa217f-eaa3-11eb-9461-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 132:Dans un dilemme impossible",
+        "episode_url": "https://gum-gum-streaming.com/major-132-vostfr/"
+    },
+    {
+        "episode_id": "7afce0c7-eaa3-11eb-aeff-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 133:Le Southpaw en détresse",
+        "episode_url": "https://gum-gum-streaming.com/major-133-vostfr/"
+    },
+    {
+        "episode_id": "7affa025-eaa3-11eb-960c-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 134:Les fruits du traitement",
+        "episode_url": "https://gum-gum-streaming.com/major-134-vostfr/"
+    },
+    {
+        "episode_id": "7b02d54e-eaa3-11eb-ba27-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 135:Ce qu’il faut pour être un pro",
+        "episode_url": "https://gum-gum-streaming.com/major-135-vostfr/"
+    },
+    {
+        "episode_id": "7b0593e4-eaa3-11eb-bc33-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 136:Problèmes des recrues",
+        "episode_url": "https://gum-gum-streaming.com/major-136-vostfr/"
+    },
+    {
+        "episode_id": "7b0853da-eaa3-11eb-b425-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 137:Un retour électrisant",
+        "episode_url": "https://gum-gum-streaming.com/major-137-vostfr/"
+    },
+    {
+        "episode_id": "7b0c3957-eaa3-11eb-8a99-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 138:Complètement de retour sur le monticule",
+        "episode_url": "https://gum-gum-streaming.com/major-138-vostfr/"
+    },
+    {
+        "episode_id": "7b0f6cdf-eaa3-11eb-9b7a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 139:L’été de chacun",
+        "episode_url": "https://gum-gum-streaming.com/major-139-vostfr/"
+    },
+    {
+        "episode_id": "7b12c1b4-eaa3-11eb-95ab-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 140:Le rêve confié",
+        "episode_url": "https://gum-gum-streaming.com/major-140-vostfr/"
+    },
+    {
+        "episode_id": "7b1612d0-eaa3-11eb-8991-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 141:La règle tacite",
+        "episode_url": "https://gum-gum-streaming.com/major-141-vostfr/"
+    },
+    {
+        "episode_id": "7b186582-eaa3-11eb-b983-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 142:Une chaîne de négativité",
+        "episode_url": "https://gum-gum-streaming.com/major-142-vostfr/"
+    },
+    {
+        "episode_id": "7b1ad869-eaa3-11eb-9f92-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 143:Responsabilité d’Ace",
+        "episode_url": "https://gum-gum-streaming.com/major-143-vostfr/"
+    },
+    {
+        "episode_id": "7b1d7ef4-eaa3-11eb-bff7-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 144:Point faible",
+        "episode_url": "https://gum-gum-streaming.com/major-144-vostfr/"
+    },
+    {
+        "episode_id": "7b1fef85-eaa3-11eb-afd8-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 145:Une volonté résolue",
+        "episode_url": "https://gum-gum-streaming.com/major-145-vostfr/"
+    },
+    {
+        "episode_id": "7b2287ac-eaa3-11eb-9587-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 146:Invité inattendu",
+        "episode_url": "https://gum-gum-streaming.com/major-146-vostfr/"
+    },
+    {
+        "episode_id": "7b24f90a-eaa3-11eb-a757-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 147:Différent?!",
+        "episode_url": "https://gum-gum-streaming.com/major-147-vostfr/"
+    },
+    {
+        "episode_id": "7b279131-eaa3-11eb-ad8a-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 148:Ombre rampante",
+        "episode_url": "https://gum-gum-streaming.com/major-148-vostfr/"
+    },
+    {
+        "episode_id": "7b2a81f5-eaa3-11eb-80bd-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 149:Ce rêve",
+        "episode_url": "https://gum-gum-streaming.com/major-149-vostfr/"
+    },
+    {
+        "episode_id": "7b2cf31d-eaa3-11eb-bd63-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 150:N’abandonnez jamais",
+        "episode_url": "https://gum-gum-streaming.com/major-150-vostfr/"
+    },
+    {
+        "episode_id": "7b2f77b3-eaa3-11eb-8447-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 151:Opportunité restante",
+        "episode_url": "https://gum-gum-streaming.com/major-151-vostfr/"
+    },
+    {
+        "episode_id": "7b31e9ae-eaa3-11eb-8efc-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 152:Au-delà de la capacité",
+        "episode_url": "https://gum-gum-streaming.com/major-152-vostfr/"
+    },
+    {
+        "episode_id": "7b345ad5-eaa3-11eb-bdc3-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 153:Ténacité à la gloire",
+        "episode_url": "https://gum-gum-streaming.com/major-153-vostfr/"
+    },
+    {
+        "episode_id": "7b36e15c-eaa3-11eb-b9aa-8cc84b59ec7a",
+        "anime_url": "https://gum-gum-streaming.com/major-vostfr/",
+        "episode_name": "• Épisode 154:Au futur",
+        "episode_url": "https://gum-gum-streaming.com/major-154-vostfr/"
+    }
+]

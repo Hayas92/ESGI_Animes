@@ -53,7 +53,7 @@ def main():
 
     print(episodes_dict)
 
-    with open(os.path.join(PATH_ANIME_EPISODES_DATA, str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '_anime_data.json'), 'w', encoding ='utf-8') as file_to_dump:
+    with open(os.path.join(PATH_ANIME_EPISODES_DATA, str(time.strftime("%Y_%m_%d_%H_%M_%S")) + '_anime_episodes_data.json'), 'w', encoding ='utf-8') as file_to_dump:
         json.dump(episodes_dict, file_to_dump, indent=4, ensure_ascii=False)
 
     # Delete the cookies and quit the driver
